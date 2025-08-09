@@ -1,0 +1,120 @@
+from pathlib import Path
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.python-version
+*.so
+*.pyd
+*.dll
+
+# Build and packaging
+build/
+dist/
+wheels/
+*.egg-info/
+.eggs/
+*.egg
+MANIFEST
+pip-wheel-metadata/
+
+# Test, coverage, and tooling caches
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+.cache/
+.hypothesis/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.pytype/
+.ruff_cache/
+
+# PEP 582 (local packages)
+__pypackages__/
+
+# Environments (virtual/conda)
+env/
+venv/
+.venv/
+.env/
+env.bak/
+venv.bak/
+.conda/
+.mamba/
+conda-env/
+conda_env/
+.conda-env/
+.condaenv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDE settings
+.vscode/
+.idea/
+*.iml
+.spyproject/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs
+logs/
+*.log
+
+# Output directory
+output/*
+!output/.gitkeep
+
+# Databases and local storage
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+
+# Secrets and credentials
+secrets/
+**/secrets.*
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+*.cer
+env_var.env
+APIkeys.json
+
+
+# Env files (keep templates)
+.env
+.env.*
+env_var.env
+!.env.example
+!.env.template
+
+# Local credentials/config (avoid committing accidentally)
+APIkeys.json
+*.token
+*.cred
+*.credentials
+*credentials*.json
+*apikey*.json
+*api_key*.json
+APIkeys.json
+
+# Keep a safe template tracked
+!APIkeys.template.json
+
+scripts/convert_notebook.py
+
+!convert_notebook.template.py

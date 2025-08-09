@@ -1,0 +1,555 @@
+{
+  "metadata": {
+    "timestamp": "2025-08-09 07:50:20",
+    "total_occupations": 61,
+    "min_match_score": 80,
+    "max_results_per_occupation": 3
+  },
+  "matches": {
+    "Word Processors And Typists": [
+      {
+        "title": "Word Processors and Typists",
+        "code": "43-9022.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/43-9022.00/"
+      }
+    ],
+    "Roof Bolters, Mining": [
+      {
+        "title": "Roof Bolters, Mining",
+        "code": "47-5043.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/47-5043.00/"
+      }
+    ],
+    "Telephone Operators": [
+      {
+        "title": "Telephone Operators",
+        "code": "43-2021.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/43-2021.00/"
+      }
+    ],
+    "Switchboard Operators, Including Answering Service": [
+      {
+        "title": "Switchboard Operators, Including Answering Service",
+        "code": "43-2011.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/43-2011.00/"
+      }
+    ],
+    "Data Entry Keyers": [
+      {
+        "title": "Data Entry Keyers",
+        "code": "43-9021.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/43-9021.00/"
+      }
+    ],
+    "Foundry Mold And Coremakers": [
+      {
+        "title": "Foundry Mold and Coremakers",
+        "code": "51-4071.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/51-4071.00/"
+      }
+    ],
+    "Loading And Moving Machine Operators, Underground Mining": [
+      {
+        "title": "Loading and Moving Machine Operators, Underground Mining",
+        "code": "47-5044.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/47-5044.00/"
+      }
+    ],
+    "Patternmakers, Metal And Plastic": [
+      {
+        "title": "Patternmakers, Metal and Plastic",
+        "code": "51-4062.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/51-4062.00/"
+      },
+      {
+        "title": "Model Makers, Metal and Plastic",
+        "code": "51-4061.00",
+        "match_score": 83,
+        "href": "https://services.onetcenter.org/ws/online/occupations/51-4061.00/"
+      }
+    ],
+    "Telemarketers": [
+      {
+        "title": "Telemarketers",
+        "code": "41-9041.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/41-9041.00/"
+      }
+    ],
+    "Engine And Other Machine Assemblers": [
+      {
+        "title": "Engine and Other Machine Assemblers",
+        "code": "51-2031.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/51-2031.00/"
+      }
+    ],
+    "Manufactured Building And Mobile Home Installers": [
+      {
+        "title": "Manufactured Building and Mobile Home Installers",
+        "code": "49-9095.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/49-9095.00/"
+      }
+    ],
+    "Drilling And Boring Machine Tool Setters, Operators, And Tenders, Metal And Plastic": [
+      {
+        "title": "Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+        "code": "51-4032.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/51-4032.00/"
+      },
+      {
+        "title": "Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",
+        "code": "51-4035.00",
+        "match_score": 91,
+        "href": "https://services.onetcenter.org/ws/online/occupations/51-4035.00/"
+      },
+      {
+        "title": "Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",
+        "code": "51-4034.00",
+        "match_score": 90,
+        "href": "https://services.onetcenter.org/ws/online/occupations/51-4034.00/"
+      }
+    ],
+    "Prepress Technicians And Workers": [
+      {
+        "title": "Prepress Technicians and Workers",
+        "code": "51-5111.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/51-5111.00/"
+      }
+    ],
+    "Cutters And Trimmers, Hand": [
+      {
+        "title": "Cutters and Trimmers, Hand",
+        "code": "51-9031.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/51-9031.00/"
+      }
+    ],
+    "Order Clerks": [
+      {
+        "title": "Order Clerks",
+        "code": "43-4151.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/43-4151.00/"
+      }
+    ],
+    "Grinding And Polishing Workers, Hand": [
+      {
+        "title": "Grinding and Polishing Workers, Hand",
+        "code": "51-9022.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/51-9022.00/"
+      }
+    ],
+    "Refractory Materials Repairers, Except Brickmasons": [
+      {
+        "title": "Refractory Materials Repairers, Except Brickmasons",
+        "code": "49-9045.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/49-9045.00/"
+      }
+    ],
+    "Model Makers, Metal And Plastic": [
+      {
+        "title": "Model Makers, Metal and Plastic",
+        "code": "51-4061.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/51-4061.00/"
+      },
+      {
+        "title": "Patternmakers, Metal and Plastic",
+        "code": "51-4062.00",
+        "match_score": 83,
+        "href": "https://services.onetcenter.org/ws/online/occupations/51-4062.00/"
+      }
+    ],
+    "Print Binding And Finishing Workers": [
+      {
+        "title": "Print Binding and Finishing Workers",
+        "code": "51-5113.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/51-5113.00/"
+      }
+    ],
+    "Camera And Photographic Equipment Repairers": [
+      {
+        "title": "Camera and Photographic Equipment Repairers",
+        "code": "49-9061.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/49-9061.00/"
+      }
+    ],
+    "Aircraft Structure, Surfaces, Rigging, And Systems Assemblers": [
+      {
+        "title": "Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",
+        "code": "51-2011.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/51-2011.00/"
+      }
+    ],
+    "Timing Device Assemblers And Adjusters": [
+      {
+        "title": "Timing Device Assemblers and Adjusters",
+        "code": "51-2061.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/51-2061.00/"
+      }
+    ],
+    "Forging Machine Setters, Operators, And Tenders, Metal And Plastic": [
+      {
+        "title": "Forging Machine Setters, Operators, and Tenders, Metal and Plastic",
+        "code": "51-4022.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/51-4022.00/"
+      },
+      {
+        "title": "Plating Machine Setters, Operators, and Tenders, Metal and Plastic",
+        "code": "51-4193.00",
+        "match_score": 94,
+        "href": "https://services.onetcenter.org/ws/online/occupations/51-4193.00/"
+      },
+      {
+        "title": "Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic",
+        "code": "51-4035.00",
+        "match_score": 88,
+        "href": "https://services.onetcenter.org/ws/online/occupations/51-4035.00/"
+      }
+    ],
+    "Structural Metal Fabricators And Fitters": [
+      {
+        "title": "Structural Metal Fabricators and Fitters",
+        "code": "51-2041.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/51-2041.00/"
+      }
+    ],
+    "File Clerks": [
+      {
+        "title": "File Clerks",
+        "code": "43-4071.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/43-4071.00/"
+      }
+    ],
+    "Office Machine Operators, Except Computer": [
+      {
+        "title": "Office Machine Operators, Except Computer",
+        "code": "43-9071.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/43-9071.00/"
+      }
+    ],
+    "Payroll And Timekeeping Clerks": [
+      {
+        "title": "Payroll and Timekeeping Clerks",
+        "code": "43-3051.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/43-3051.00/"
+      }
+    ],
+    "Tellers": [
+      {
+        "title": "Tellers",
+        "code": "43-3071.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/43-3071.00/"
+      }
+    ],
+    "Door-To-Door Sales Workers, News And Street Vendors, And Related Workers": [
+      {
+        "title": "Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",
+        "code": "41-9091.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/41-9091.00/"
+      }
+    ],
+    "New Accounts Clerks": [
+      {
+        "title": "New Accounts Clerks",
+        "code": "43-4141.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/43-4141.00/"
+      }
+    ],
+    "Total, All Occupations": [],
+    "Wind Turbine Service Technicians": [
+      {
+        "title": "Wind Turbine Service Technicians",
+        "code": "49-9081.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/49-9081.00/"
+      }
+    ],
+    "Solar Photovoltaic Installers": [
+      {
+        "title": "Solar Photovoltaic Installers",
+        "code": "47-2231.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/47-2231.00/"
+      }
+    ],
+    "Nurse Practitioners": [
+      {
+        "title": "Nurse Practitioners",
+        "code": "29-1171.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/29-1171.00/"
+      }
+    ],
+    "Data Scientists": [
+      {
+        "title": "Data Scientists",
+        "code": "15-2051.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/15-2051.00/"
+      },
+      {
+        "title": "Materials Scientists",
+        "code": "19-2032.00",
+        "match_score": 80,
+        "href": "https://services.onetcenter.org/ws/online/occupations/19-2032.00/"
+      }
+    ],
+    "Information Security Analysts": [
+      {
+        "title": "Information Security Analysts",
+        "code": "15-1212.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/15-1212.00/"
+      }
+    ],
+    "Medical And Health Services Managers": [
+      {
+        "title": "Medical and Health Services Managers",
+        "code": "11-9111.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/11-9111.00/"
+      }
+    ],
+    "Physician Assistants": [
+      {
+        "title": "Physician Assistants",
+        "code": "29-1071.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/29-1071.00/"
+      }
+    ],
+    "Computer And Information Research Scientists": [
+      {
+        "title": "Computer and Information Research Scientists",
+        "code": "15-1221.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/15-1221.00/"
+      }
+    ],
+    "Physical Therapist Assistants": [
+      {
+        "title": "Physical Therapist Assistants",
+        "code": "31-2021.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/31-2021.00/"
+      },
+      {
+        "title": "Physical Therapist Aides",
+        "code": "31-2022.00",
+        "match_score": 83,
+        "href": "https://services.onetcenter.org/ws/online/occupations/31-2022.00/"
+      }
+    ],
+    "Operations Research Analysts": [
+      {
+        "title": "Operations Research Analysts",
+        "code": "15-2031.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/15-2031.00/"
+      }
+    ],
+    "Occupational Therapy Assistants": [
+      {
+        "title": "Occupational Therapy Assistants",
+        "code": "31-2011.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/31-2011.00/"
+      },
+      {
+        "title": "Occupational Therapists",
+        "code": "29-1122.00",
+        "match_score": 85,
+        "href": "https://services.onetcenter.org/ws/online/occupations/29-1122.00/"
+      },
+      {
+        "title": "Occupational Therapy Aides",
+        "code": "31-2012.00",
+        "match_score": 84,
+        "href": "https://services.onetcenter.org/ws/online/occupations/31-2012.00/"
+      }
+    ],
+    "Actuaries": [
+      {
+        "title": "Actuaries",
+        "code": "15-2011.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/15-2011.00/"
+      }
+    ],
+    "Financial Examiners": [
+      {
+        "title": "Financial Examiners",
+        "code": "13-2061.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/13-2061.00/"
+      },
+      {
+        "title": "Financial Managers",
+        "code": "11-3031.00",
+        "match_score": 81,
+        "href": "https://services.onetcenter.org/ws/online/occupations/11-3031.00/"
+      }
+    ],
+    "Home Health And Personal Care Aides": [],
+    "Veterinary Assistants And Laboratory Animal Caretakers": [
+      {
+        "title": "Veterinary Assistants and Laboratory Animal Caretakers",
+        "code": "31-9096.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/31-9096.00/"
+      }
+    ],
+    "Veterinary Technologists And Technicians": [
+      {
+        "title": "Veterinary Technologists and Technicians",
+        "code": "29-2056.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/29-2056.00/"
+      }
+    ],
+    "Logisticians": [
+      {
+        "title": "Logisticians",
+        "code": "13-1081.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/13-1081.00/"
+      }
+    ],
+    "Veterinarians": [
+      {
+        "title": "Veterinarians",
+        "code": "29-1131.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/29-1131.00/"
+      }
+    ],
+    "Substance Abuse, Behavioral Disorder, And Mental Health Counselors": [],
+    "Epidemiologists": [
+      {
+        "title": "Epidemiologists",
+        "code": "19-1041.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/19-1041.00/"
+      }
+    ],
+    "Health Specialties Teachers, Postsecondary": [
+      {
+        "title": "Health Specialties Teachers, Postsecondary",
+        "code": "25-1071.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/25-1071.00/"
+      }
+    ],
+    "Speech-Language Pathologists": [
+      {
+        "title": "Speech-Language Pathologists",
+        "code": "29-1127.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/29-1127.00/"
+      },
+      {
+        "title": "Speech-Language Pathology Assistants",
+        "code": "31-9099.01",
+        "match_score": 88,
+        "href": "https://services.onetcenter.org/ws/online/occupations/31-9099.01/"
+      }
+    ],
+    "Medical Equipment Repairers": [
+      {
+        "title": "Medical Equipment Repairers",
+        "code": "49-9062.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/49-9062.00/"
+      },
+      {
+        "title": "Medical Equipment Preparers",
+        "code": "31-9093.00",
+        "match_score": 96,
+        "href": "https://services.onetcenter.org/ws/online/occupations/31-9093.00/"
+      }
+    ],
+    "Software Developers": [
+      {
+        "title": "Software Developers",
+        "code": "15-1252.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/15-1252.00/"
+      }
+    ],
+    "Nursing Instructors And Teachers, Postsecondary": [
+      {
+        "title": "Nursing Instructors and Teachers, Postsecondary",
+        "code": "25-1072.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/25-1072.00/"
+      }
+    ],
+    "Massage Therapists": [
+      {
+        "title": "Massage Therapists",
+        "code": "31-9011.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/31-9011.00/"
+      }
+    ],
+    "Computer And Information Systems Managers": [
+      {
+        "title": "Computer and Information Systems Managers",
+        "code": "11-3021.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/11-3021.00/"
+      }
+    ],
+    "Industrial Machinery Mechanics": [
+      {
+        "title": "Industrial Machinery Mechanics",
+        "code": "49-9041.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/49-9041.00/"
+      }
+    ],
+    "Personal Financial Advisors": [
+      {
+        "title": "Personal Financial Advisors",
+        "code": "13-2052.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/13-2052.00/"
+      }
+    ],
+    "Psychiatric Technicians": [
+      {
+        "title": "Psychiatric Technicians",
+        "code": "29-2053.00",
+        "match_score": 100,
+        "href": "https://services.onetcenter.org/ws/online/occupations/29-2053.00/"
+      }
+    ]
+  }
+}

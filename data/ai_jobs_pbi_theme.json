@@ -1,0 +1,65 @@
+{
+  "name": "AI Jobs Impact Theme",
+  "dataColors": [
+    "#1f77b4",
+    "#ff7f0e",
+    "#2ca02c",
+    "#d62728",
+    "#9467bd",
+    "#8c564b",
+    "#e377c2",
+    "#7f7f7f",
+    "#bcbd22",
+    "#17becf"
+  ],
+  "background": "#ffffff",
+  "foreground": "#000000",
+  "tableAccent": "#1f77b4",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "titleText": [{
+          "fontSize": 14,
+          "fontFamily": "Segoe UI Semibold",
+          "color": "#1f77b4"
+        }],
+        "labels": [{
+          "color": "#000000",
+          "fontSize": 12
+        }]
+      }
+    },
+    "slicer": {
+  "*": {
+    "background": [{
+      "color": {
+        "solid": {
+          "color": "#f0f0f0"
+        }
+      }
+    }],
+    "outlineColor": [{
+      "color": {
+        "solid": {
+          "color": "#000000"
+        }
+      }
+    }],
+    "header": [{
+      "fontSize": 12,
+      "fontFamily": "Segoe UI",
+      "color": "#000000"
+    }]
+  }
+},
+    "card": {
+      "*": {
+        "dataLabels": [{
+          "color": "#1f77b4",
+          "fontSize": 14,
+          "fontFamily": "Segoe UI Bold"
+        }]
+      }
+    }
+  }
+}

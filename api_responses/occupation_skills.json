@@ -1,0 +1,764 @@
+{
+  "metadata": {
+    "timestamp": "2025-08-05T21:20:40.332277",
+    "total_occupations": 57,
+    "total_skills": 246
+  },
+  "occupations": [
+    {
+      "occupation_title": "Word Processors And Typists",
+      "employment_trend": "Declining",
+      "onet_soc_code": "43-9022.00",
+      "soc_code": "43-9022",
+      "occupation_description": "Use word processor, computer, or typewriter to type letters, reports, forms, or other material from rough draft, corrected copy, or voice recording. May perform other clerical duties as assigned.",
+      "extracted_skills": [
+        "word processor",
+        "type letters",
+        "other material",
+        "rough draft",
+        "corrected copy",
+        "voice recording",
+        "other clerical duties"
+      ]
+    },
+    {
+      "occupation_title": "Roof Bolters, Mining",
+      "employment_trend": "Declining",
+      "onet_soc_code": "47-5043.00",
+      "soc_code": "47-5043",
+      "occupation_description": "Operate machinery to install roof support bolts in underground mine.",
+      "extracted_skills": [
+        "operate machinery",
+        "underground mine"
+      ]
+    },
+    {
+      "occupation_title": "Telephone Operators",
+      "employment_trend": "Declining",
+      "onet_soc_code": "43-2011.00",
+      "soc_code": "43-2011",
+      "occupation_description": "Operate telephone business systems equipment or switchboards to relay incoming, outgoing, and interoffice calls. May supply information to callers and record messages.",
+      "extracted_skills": [
+        "record messages"
+      ]
+    },
+    {
+      "occupation_title": "Switchboard Operators, Including Answering Service",
+      "employment_trend": "Declining",
+      "onet_soc_code": "43-1011.00",
+      "soc_code": "43-1011",
+      "occupation_description": "Directly supervise and coordinate the activities of clerical and administrative support workers.",
+      "extracted_skills": [
+        "the activities"
+      ]
+    },
+    {
+      "occupation_title": "Data Entry Keyers",
+      "employment_trend": "Declining",
+      "onet_soc_code": "43-9021.00",
+      "soc_code": "43-9021",
+      "occupation_description": "Operate data entry device, such as keyboard or photo composing perforator. Duties may include verifying data and preparing materials for printing.",
+      "extracted_skills": [
+        "photo composing perforator"
+      ]
+    },
+    {
+      "occupation_title": "Foundry Mold And Coremakers",
+      "employment_trend": "Declining",
+      "onet_soc_code": "51-4071.00",
+      "soc_code": "51-4071",
+      "occupation_description": "Make or form wax or sand cores or molds used in the production of metal castings in foundries.",
+      "extracted_skills": [
+        "sand cores",
+        "the production",
+        "metal castings"
+      ]
+    },
+    {
+      "occupation_title": "Loading And Moving Machine Operators, Underground Mining",
+      "employment_trend": "Declining",
+      "onet_soc_code": "47-5044.00",
+      "soc_code": "47-5044",
+      "occupation_description": "Operate underground loading or moving machine to load or move coal, ore, or rock using shuttle or mine car or conveyors. Equipment may include power shovels, hoisting engines equipped with cable-drawn scraper or scoop, or machines equipped with gathering arms and conveyor.",
+      "extracted_skills": [
+        "underground loading",
+        "mine car",
+        "power shovels",
+        "hoisting engines",
+        "cable-drawn scraper"
+      ]
+    },
+    {
+      "occupation_title": "Patternmakers, Metal And Plastic",
+      "employment_trend": "Declining",
+      "onet_soc_code": "51-4062.00",
+      "soc_code": "51-4062",
+      "occupation_description": "Lay out, machine, fit, and assemble castings and parts to metal or plastic foundry patterns, core boxes, or match plates.",
+      "extracted_skills": [
+        "core boxes",
+        "match plates"
+      ]
+    },
+    {
+      "occupation_title": "Telemarketers",
+      "employment_trend": "Declining",
+      "onet_soc_code": "41-9031.00",
+      "soc_code": "41-9031",
+      "occupation_description": "Sell business goods or services, the selling of which requires a technical background equivalent to a baccalaureate degree in engineering.",
+      "extracted_skills": [
+        "business goods",
+        "the selling",
+        "a technical background",
+        "a baccalaureate degree"
+      ]
+    },
+    {
+      "occupation_title": "Engine And Other Machine Assemblers",
+      "employment_trend": "Declining",
+      "onet_soc_code": "51-2023.00",
+      "soc_code": "51-2023",
+      "occupation_description": "Assemble or modify electromechanical equipment or devices, such as servomechanisms, gyros, dynamometers, magnetic drums, tape drives, brakes, control linkage, actuators, and appliances.",
+      "extracted_skills": [
+        "electromechanical equipment",
+        "magnetic drums",
+        "tape drives",
+        "control linkage"
+      ]
+    },
+    {
+      "occupation_title": "Manufactured Building And Mobile Home Installers",
+      "employment_trend": "Declining",
+      "onet_soc_code": "49-9095.00",
+      "soc_code": "49-9095",
+      "occupation_description": "Move or install mobile homes or prefabricated buildings.",
+      "extracted_skills": [
+        "mobile homes"
+      ]
+    },
+    {
+      "occupation_title": "Drilling And Boring Machine Tool Setters, Operators, And Tenders, Metal And Plastic",
+      "employment_trend": "Declining",
+      "onet_soc_code": "51-4032.00",
+      "soc_code": "51-4032",
+      "occupation_description": "Set up, operate, or tend drilling machines to drill, bore, ream, mill, or countersink metal or plastic work pieces.",
+      "extracted_skills": []
+    },
+    {
+      "occupation_title": "Prepress Technicians And Workers",
+      "employment_trend": "Declining",
+      "onet_soc_code": "51-5111.00",
+      "soc_code": "51-5111",
+      "occupation_description": "Format and proof text and images submitted by designers and clients into finished pages that can be printed. Includes digital and photo typesetting. May produce printing plates.",
+      "extracted_skills": [
+        "proof text",
+        "finished pages",
+        "printing plates"
+      ]
+    },
+    {
+      "occupation_title": "Cutters And Trimmers, Hand",
+      "employment_trend": "Declining",
+      "onet_soc_code": "51-9031.00",
+      "soc_code": "51-9031",
+      "occupation_description": "Use hand tools or hand-held power tools to cut and trim a variety of manufactured items, such as carpet, fabric, stone, glass, or rubber.",
+      "extracted_skills": [
+        "hand tools",
+        "hand-held power tools",
+        "a variety",
+        "manufactured items"
+      ]
+    },
+    {
+      "occupation_title": "Order Clerks",
+      "employment_trend": "Declining",
+      "onet_soc_code": "43-4141.00",
+      "soc_code": "43-4141",
+      "occupation_description": "Interview persons desiring to open accounts in financial institutions. Explain account services available to prospective customers and assist them in preparing applications.",
+      "extracted_skills": [
+        "interview persons",
+        "financial institutions",
+        "account services",
+        "prospective customers"
+      ]
+    },
+    {
+      "occupation_title": "Grinding And Polishing Workers, Hand",
+      "employment_trend": "Declining",
+      "onet_soc_code": "51-9022.00",
+      "soc_code": "51-9022",
+      "occupation_description": "Grind, sand, or polish, using hand tools or hand-held power tools, a variety of metal, wood, stone, clay, plastic, or glass objects. Includes chippers, buffers, and finishers.",
+      "extracted_skills": [
+        "hand tools",
+        "hand-held power tools",
+        "a variety",
+        "glass objects"
+      ]
+    },
+    {
+      "occupation_title": "Refractory Materials Repairers, Except Brickmasons",
+      "employment_trend": "Declining",
+      "onet_soc_code": "49-9045.00",
+      "soc_code": "49-9045",
+      "occupation_description": "Build or repair equipment such as furnaces, kilns, cupolas, boilers, converters, ladles, soaking pits, and ovens, using refractory materials.",
+      "extracted_skills": [
+        "soaking pits",
+        "refractory materials"
+      ]
+    },
+    {
+      "occupation_title": "Model Makers, Metal And Plastic",
+      "employment_trend": "Declining",
+      "onet_soc_code": "51-4061.00",
+      "soc_code": "51-4061",
+      "occupation_description": "Set up and operate machines, such as lathes, milling and engraving machines, and jig borers to make working models of metal or plastic objects. Includes template makers.",
+      "extracted_skills": [
+        "jig borers",
+        "working models",
+        "template makers"
+      ]
+    },
+    {
+      "occupation_title": "Print Binding And Finishing Workers",
+      "employment_trend": "Declining",
+      "onet_soc_code": "51-5113.00",
+      "soc_code": "51-5113",
+      "occupation_description": "Bind books and other publications or finish printed products by hand or machine. May set up binding and finishing machines.",
+      "extracted_skills": [
+        "bind books",
+        "other publications",
+        "printed products"
+      ]
+    },
+    {
+      "occupation_title": "Camera And Photographic Equipment Repairers",
+      "employment_trend": "Declining",
+      "onet_soc_code": "49-9061.00",
+      "soc_code": "49-9061",
+      "occupation_description": "Repair and adjust cameras and photographic equipment, including commercial video and motion picture camera equipment.",
+      "extracted_skills": [
+        "photographic equipment"
+      ]
+    },
+    {
+      "occupation_title": "Aircraft Structure, Surfaces, Rigging, And Systems Assemblers",
+      "employment_trend": "Declining",
+      "onet_soc_code": "51-1011.00",
+      "soc_code": "51-1011",
+      "occupation_description": "Directly supervise and coordinate the activities of production and operating workers, such as inspectors, precision workers, machine setters and operators, assemblers, fabricators, and plant and system operators. Excludes team or work leaders.",
+      "extracted_skills": [
+        "the activities",
+        "precision workers",
+        "machine setters",
+        "work leaders"
+      ]
+    },
+    {
+      "occupation_title": "Timing Device Assemblers And Adjusters",
+      "employment_trend": "Declining",
+      "onet_soc_code": "51-2051.00",
+      "soc_code": "51-2051",
+      "occupation_description": "Laminate layers of fiberglass on molds to form boat decks and hulls, bodies for golf carts, automobiles, or other products.",
+      "extracted_skills": [
+        "laminate layers",
+        "boat decks",
+        "golf carts",
+        "other products"
+      ]
+    },
+    {
+      "occupation_title": "Forging Machine Setters, Operators, And Tenders, Metal And Plastic",
+      "employment_trend": "Declining",
+      "onet_soc_code": "51-4022.00",
+      "soc_code": "51-4022",
+      "occupation_description": "Set up, operate, or tend forging machines to taper, shape, or form metal or plastic parts.",
+      "extracted_skills": []
+    },
+    {
+      "occupation_title": "Structural Metal Fabricators And Fitters",
+      "employment_trend": "Declining",
+      "onet_soc_code": "51-2031.00",
+      "soc_code": "51-2031",
+      "occupation_description": "Construct, assemble, or rebuild machines, such as engines, turbines, and similar equipment used in such industries as construction, extraction, textiles, and paper manufacturing.",
+      "extracted_skills": [
+        "similar equipment",
+        "such industries",
+        "paper manufacturing"
+      ]
+    },
+    {
+      "occupation_title": "File Clerks",
+      "employment_trend": "Declining",
+      "onet_soc_code": "43-4061.00",
+      "soc_code": "43-4061",
+      "occupation_description": "Determine eligibility of persons applying to receive assistance from government programs and agency resources, such as welfare, unemployment benefits, social security, and public housing.",
+      "extracted_skills": [
+        "government programs",
+        "agency resources",
+        "unemployment benefits",
+        "social security",
+        "public housing"
+      ]
+    },
+    {
+      "occupation_title": "Office Machine Operators, Except Computer",
+      "employment_trend": "Declining",
+      "onet_soc_code": "43-9061.00",
+      "soc_code": "43-9061",
+      "occupation_description": "Perform duties too varied and diverse to be classified in any specific office clerical occupation, requiring knowledge of office systems and procedures. Clerical duties may be assigned in accordance with the office procedures of individual establishments and may include a combination of answering telephones, bookkeeping, typing or word processing, office machine operation, and filing.",
+      "extracted_skills": [
+        "office systems",
+        "clerical duties",
+        "the office procedures",
+        "individual establishments",
+        "a combination",
+        "answering telephones",
+        "word processing",
+        "office machine operation"
+      ]
+    },
+    {
+      "occupation_title": "Payroll And Timekeeping Clerks",
+      "employment_trend": "Declining",
+      "onet_soc_code": "43-3041.00",
+      "soc_code": "43-3041",
+      "occupation_description": "In a gambling establishment, conduct financial transactions for patrons. Accept patron's credit application and verify credit references to provide check-cashing authorization or to establish house credit accounts. May reconcile daily summaries of transactions to balance books. May sell gambling chips, tokens, or tickets to patrons, or to other workers for resale to patrons. May convert gambling chips, tokens, or tickets to currency upon patron's request. May use a cash register or computer to record transaction.",
+      "extracted_skills": [
+        "a gambling establishment",
+        "financial transactions",
+        "patron's credit application",
+        "credit references",
+        "check-cashing authorization",
+        "house credit accounts",
+        "daily summaries",
+        "gambling chips",
+        "other workers",
+        "patron's request",
+        "a cash register"
+      ]
+    },
+    {
+      "occupation_title": "Tellers",
+      "employment_trend": "Declining",
+      "onet_soc_code": "43-3061.00",
+      "soc_code": "43-3061",
+      "occupation_description": "Compile information and records to draw up purchase orders for procurement of materials and services.",
+      "extracted_skills": [
+        "compile information",
+        "purchase orders"
+      ]
+    },
+    {
+      "occupation_title": "Door-To-Door Sales Workers, News And Street Vendors, And Related Workers",
+      "employment_trend": "Declining",
+      "onet_soc_code": "41-9091.00",
+      "soc_code": "41-9091",
+      "occupation_description": "Sell goods or services door-to-door or on the street.",
+      "extracted_skills": [
+        "the street"
+      ]
+    },
+    {
+      "occupation_title": "New Accounts Clerks",
+      "employment_trend": "Declining",
+      "onet_soc_code": "43-4131.00",
+      "soc_code": "43-4131",
+      "occupation_description": "Interview loan applicants to elicit information; investigate applicants' backgrounds and verify references; prepare loan request papers; and forward findings, reports, and documents to appraisal department. Review loan papers to ensure completeness, and complete transactions between loan establishment, borrowers, and sellers upon approval of loan.",
+      "extracted_skills": [
+        "interview loan applicants",
+        "to elicit information",
+        "applicants' backgrounds",
+        "loan request papers",
+        "forward findings",
+        "appraisal department",
+        "review loan papers",
+        "complete transactions",
+        "loan establishment"
+      ]
+    },
+    {
+      "occupation_title": "Wind Turbine Service Technicians",
+      "employment_trend": "Growing",
+      "onet_soc_code": "49-9071.00",
+      "soc_code": "49-9071",
+      "occupation_description": "Perform work involving the skills of two or more maintenance or craft occupations to keep machines, mechanical equipment, or the structure of a building in repair. Duties may involve pipe fitting; HVAC maintenance; insulating; welding; machining; carpentry; repairing electrical or mechanical equipment; installing, aligning, and balancing new equipment; and repairing buildings, floors, or stairs.",
+      "extracted_skills": [
+        "the skills",
+        "craft occupations",
+        "mechanical equipment",
+        "the structure",
+        "a building",
+        "pipe fitting",
+        "hvac maintenance",
+        "new equipment"
+      ]
+    },
+    {
+      "occupation_title": "Solar Photovoltaic Installers",
+      "employment_trend": "Growing",
+      "onet_soc_code": "47-2221.00",
+      "soc_code": "47-2221",
+      "occupation_description": "Raise, place, and unite iron or steel girders, columns, and other structural members to form completed structures or structural frameworks. May erect metal storage tanks and assemble prefabricated metal buildings.",
+      "extracted_skills": [
+        "other structural members",
+        "completed structures",
+        "structural frameworks",
+        "metal storage tanks",
+        "metal buildings"
+      ]
+    },
+    {
+      "occupation_title": "Nurse Practitioners",
+      "employment_trend": "Growing",
+      "onet_soc_code": "29-1161.00",
+      "soc_code": "29-1161",
+      "occupation_description": "Diagnose and coordinate all aspects of the birthing process, either independently or as part of a healthcare team. May provide well-woman gynecological care. Must have specialized, graduate nursing education.",
+      "extracted_skills": [
+        "all aspects",
+        "the birthing process",
+        "a healthcare team",
+        "well-woman gynecological care",
+        "graduate nursing education"
+      ]
+    },
+    {
+      "occupation_title": "Data Scientists",
+      "employment_trend": "Growing",
+      "onet_soc_code": "15-2041.00",
+      "soc_code": "15-2041",
+      "occupation_description": "Develop or apply mathematical or statistical theory and methods to collect, organize, interpret, and summarize numerical data to provide usable information. May specialize in fields such as biostatistics, agricultural statistics, business statistics, or economic statistics. Includes mathematical and survey statisticians.",
+      "extracted_skills": [
+        "numerical data",
+        "usable information",
+        "agricultural statistics",
+        "business statistics",
+        "economic statistics"
+      ]
+    },
+    {
+      "occupation_title": "Information Security Analysts",
+      "employment_trend": "Growing",
+      "onet_soc_code": "15-1212.00",
+      "soc_code": "15-1212",
+      "occupation_description": "Plan, implement, upgrade, or monitor security measures for the protection of computer networks and information. Assess system vulnerabilities for security risks and propose and implement risk mitigation strategies. May ensure appropriate security controls are in place that will safeguard digital files and vital electronic infrastructure. May respond to computer security breaches and viruses.",
+      "extracted_skills": [
+        "security measures",
+        "the protection",
+        "computer networks",
+        "assess system vulnerabilities",
+        "security risks",
+        "risk mitigation strategies",
+        "appropriate security controls",
+        "digital files",
+        "vital electronic infrastructure",
+        "computer security breaches"
+      ]
+    },
+    {
+      "occupation_title": "Physician Assistants",
+      "employment_trend": "Growing",
+      "onet_soc_code": "29-1051.00",
+      "soc_code": "29-1051",
+      "occupation_description": "Dispense drugs prescribed by physicians and other health practitioners and provide information to patients about medications and their use. May advise physicians and other health practitioners on the selection, dosage, interactions, and side effects of medications.",
+      "extracted_skills": [
+        "dispense drugs",
+        "other health practitioners",
+        "their use",
+        "the selection",
+        "side effects"
+      ]
+    },
+    {
+      "occupation_title": "Computer And Information Research Scientists",
+      "employment_trend": "Growing",
+      "onet_soc_code": "15-1212.00",
+      "soc_code": "15-1212",
+      "occupation_description": "Plan, implement, upgrade, or monitor security measures for the protection of computer networks and information. Assess system vulnerabilities for security risks and propose and implement risk mitigation strategies. May ensure appropriate security controls are in place that will safeguard digital files and vital electronic infrastructure. May respond to computer security breaches and viruses.",
+      "extracted_skills": [
+        "security measures",
+        "the protection",
+        "computer networks",
+        "assess system vulnerabilities",
+        "security risks",
+        "risk mitigation strategies",
+        "appropriate security controls",
+        "digital files",
+        "vital electronic infrastructure",
+        "computer security breaches"
+      ]
+    },
+    {
+      "occupation_title": "Physical Therapist Assistants",
+      "employment_trend": "Growing",
+      "onet_soc_code": "31-2021.00",
+      "soc_code": "31-2021",
+      "occupation_description": "Assist physical therapists in providing physical therapy treatments and procedures. May, in accordance with state laws, assist in the development of treatment plans, carry out routine functions, document the progress of treatment, and modify specific treatments in accordance with patient status and within the scope of treatment plans established by a physical therapist. Generally requires formal training.",
+      "extracted_skills": [
+        "physical therapists",
+        "physical therapy treatments",
+        "state laws",
+        "the development",
+        "treatment plans",
+        "routine functions",
+        "the progress",
+        "specific treatments",
+        "patient status",
+        "the scope",
+        "a physical therapist",
+        "formal training"
+      ]
+    },
+    {
+      "occupation_title": "Operations Research Analysts",
+      "employment_trend": "Growing",
+      "onet_soc_code": "15-2021.00",
+      "soc_code": "15-2021",
+      "occupation_description": "Conduct research in fundamental mathematics or in application of mathematical techniques to science, management, and other fields. Solve problems in various fields using mathematical methods.",
+      "extracted_skills": [
+        "fundamental mathematics",
+        "mathematical techniques",
+        "other fields",
+        "various fields",
+        "mathematical methods"
+      ]
+    },
+    {
+      "occupation_title": "Occupational Therapy Assistants",
+      "employment_trend": "Growing",
+      "onet_soc_code": "31-2011.00",
+      "soc_code": "31-2011",
+      "occupation_description": "Assist occupational therapists in providing occupational therapy treatments and procedures. May, in accordance with state laws, assist in development of treatment plans, carry out routine functions, direct activity programs, and document the progress of treatments. Generally requires formal training.",
+      "extracted_skills": [
+        "occupational therapists",
+        "occupational therapy treatments",
+        "state laws",
+        "treatment plans",
+        "routine functions",
+        "direct activity programs",
+        "the progress",
+        "formal training"
+      ]
+    },
+    {
+      "occupation_title": "Actuaries",
+      "employment_trend": "Growing",
+      "onet_soc_code": "15-1299.00",
+      "soc_code": "15-1299",
+      "occupation_description": "All computer occupations not listed separately.",
+      "extracted_skills": [
+        "all computer occupations"
+      ]
+    },
+    {
+      "occupation_title": "Financial Examiners",
+      "employment_trend": "Growing",
+      "onet_soc_code": "13-2054.00",
+      "soc_code": "13-2054",
+      "occupation_description": "Analyze and measure exposure to credit and market risk threatening the assets, earning capacity, or economic state of an organization. May make recommendations to limit risk.",
+      "extracted_skills": [
+        "the assets",
+        "economic state",
+        "an organization"
+      ]
+    },
+    {
+      "occupation_title": "Home Health And Personal Care Aides",
+      "employment_trend": "Growing",
+      "onet_soc_code": "31-9099.00",
+      "soc_code": "31-9099",
+      "occupation_description": "All healthcare support workers not listed separately.",
+      "extracted_skills": []
+    },
+    {
+      "occupation_title": "Veterinary Assistants And Laboratory Animal Caretakers",
+      "employment_trend": "Growing",
+      "onet_soc_code": "31-9096.00",
+      "soc_code": "31-9096",
+      "occupation_description": "Feed, water, and examine pets and other nonfarm animals for signs of illness, disease, or injury in laboratories and animal hospitals and clinics. Clean and disinfect cages and work areas, and sterilize laboratory and surgical equipment. May provide routine postoperative care, administer medication orally or topically, or prepare samples for laboratory examination under the supervision of veterinary or laboratory animal technologists or technicians, veterinarians, or scientists.",
+      "extracted_skills": [
+        "other nonfarm animals",
+        "animal hospitals",
+        "work areas",
+        "surgical equipment",
+        "routine postoperative care",
+        "administer medication",
+        "laboratory examination",
+        "the supervision"
+      ]
+    },
+    {
+      "occupation_title": "Veterinary Technologists And Technicians",
+      "employment_trend": "Growing",
+      "onet_soc_code": "29-2056.00",
+      "soc_code": "29-2056",
+      "occupation_description": "Perform medical tests in a laboratory environment for use in the treatment and diagnosis of diseases in animals. Prepare vaccines and serums for prevention of diseases. Prepare tissue samples, take blood samples, and execute laboratory tests, such as urinalysis and blood counts. Clean and sterilize instruments and materials and maintain equipment and machines. May assist a veterinarian during surgery.",
+      "extracted_skills": [
+        "medical tests",
+        "a laboratory environment",
+        "the treatment",
+        "tissue samples",
+        "blood samples",
+        "laboratory tests",
+        "blood counts",
+        "a veterinarian"
+      ]
+    },
+    {
+      "occupation_title": "Logisticians",
+      "employment_trend": "Growing",
+      "onet_soc_code": "13-1081.00",
+      "soc_code": "13-1081",
+      "occupation_description": "Analyze and coordinate the ongoing logistical functions of a firm or organization. Responsible for the entire life cycle of a product, including acquisition, distribution, internal allocation, delivery, and final disposal of resources.",
+      "extracted_skills": [
+        "a firm",
+        "a product",
+        "internal allocation",
+        "final disposal"
+      ]
+    },
+    {
+      "occupation_title": "Veterinarians",
+      "employment_trend": "Growing",
+      "onet_soc_code": "29-1129.00",
+      "soc_code": "29-1129",
+      "occupation_description": "All therapists not listed separately.",
+      "extracted_skills": [
+        "all therapists"
+      ]
+    },
+    {
+      "occupation_title": "Epidemiologists",
+      "employment_trend": "Growing",
+      "onet_soc_code": "19-1041.00",
+      "soc_code": "19-1041",
+      "occupation_description": "Investigate and describe the determinants and distribution of disease, disability, or health outcomes. May develop the means for prevention and control.",
+      "extracted_skills": [
+        "the determinants",
+        "health outcomes",
+        "the means"
+      ]
+    },
+    {
+      "occupation_title": "Health Specialties Teachers, Postsecondary",
+      "employment_trend": "Growing",
+      "onet_soc_code": "25-1071.00",
+      "soc_code": "25-1071",
+      "occupation_description": "Teach courses in health specialties, in fields such as dentistry, laboratory technology, medicine, pharmacy, public health, therapy, and veterinary medicine.",
+      "extracted_skills": [
+        "health specialties",
+        "laboratory technology",
+        "public health",
+        "veterinary medicine"
+      ]
+    },
+    {
+      "occupation_title": "Speech-Language Pathologists",
+      "employment_trend": "Growing",
+      "onet_soc_code": "29-1127.00",
+      "soc_code": "29-1127",
+      "occupation_description": "Assess and treat persons with speech, language, voice, and fluency disorders. May select alternative communication systems and teach their use. May perform research related to speech and language problems.",
+      "extracted_skills": [
+        "fluency disorders",
+        "alternative communication systems",
+        "their use"
+      ]
+    },
+    {
+      "occupation_title": "Medical Equipment Repairers",
+      "employment_trend": "Growing",
+      "onet_soc_code": "49-9062.00",
+      "soc_code": "49-9062",
+      "occupation_description": "Test, adjust, or repair biomedical or electromedical equipment.",
+      "extracted_skills": []
+    },
+    {
+      "occupation_title": "Software Developers",
+      "employment_trend": "Growing",
+      "onet_soc_code": "15-1252.00",
+      "soc_code": "15-1252",
+      "occupation_description": "Research, design, and develop computer and network software or specialized utility programs. Analyze user needs and develop software solutions, applying principles and techniques of computer science, engineering, and mathematical analysis. Update software or enhance existing software capabilities. May work with computer hardware engineers to integrate hardware and software systems, and develop specifications and performance requirements. May maintain databases within an application area, working individually or coordinating database development as part of a team.",
+      "extracted_skills": [
+        "specialized utility programs",
+        "software solutions",
+        "computer science",
+        "mathematical analysis",
+        "update software",
+        "existing software capabilities",
+        "computer hardware engineers",
+        "performance requirements",
+        "an application area",
+        "database development",
+        "a team"
+      ]
+    },
+    {
+      "occupation_title": "Nursing Instructors And Teachers, Postsecondary",
+      "employment_trend": "Growing",
+      "onet_soc_code": "25-1072.00",
+      "soc_code": "25-1072",
+      "occupation_description": "Demonstrate and teach patient care in classroom and clinical units to nursing students. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.",
+      "extracted_skills": [
+        "patient care",
+        "nursing students",
+        "both teachers",
+        "a combination"
+      ]
+    },
+    {
+      "occupation_title": "Massage Therapists",
+      "employment_trend": "Growing",
+      "onet_soc_code": "31-2022.00",
+      "soc_code": "31-2022",
+      "occupation_description": "Under close supervision of a physical therapist or physical therapy assistant, perform only delegated, selected, or routine tasks in specific situations. These duties include preparing the patient and the treatment area.",
+      "extracted_skills": [
+        "close supervision",
+        "a physical therapist",
+        "physical therapy assistant",
+        "specific situations",
+        "these duties",
+        "the patient",
+        "the treatment area"
+      ]
+    },
+    {
+      "occupation_title": "Industrial Machinery Mechanics",
+      "employment_trend": "Growing",
+      "onet_soc_code": "49-9041.00",
+      "soc_code": "49-9041",
+      "occupation_description": "Repair, install, adjust, or maintain industrial production and processing machinery or refinery and pipeline distribution systems. May also install, dismantle, or move machinery and heavy equipment according to plans.",
+      "extracted_skills": [
+        "heavy equipment"
+      ]
+    },
+    {
+      "occupation_title": "Personal Financial Advisors",
+      "employment_trend": "Growing",
+      "onet_soc_code": "13-2052.00",
+      "soc_code": "13-2052",
+      "occupation_description": "Advise clients on financial plans using knowledge of tax and investment strategies, securities, insurance, pension plans, and real estate. Duties include assessing clients' assets, liabilities, cash flow, insurance coverage, tax status, and financial objectives. May also buy and sell financial assets for clients.",
+      "extracted_skills": [
+        "financial plans",
+        "pension plans",
+        "real estate",
+        "clients' assets",
+        "cash flow",
+        "insurance coverage",
+        "tax status",
+        "financial objectives",
+        "financial assets"
+      ]
+    },
+    {
+      "occupation_title": "Psychiatric Technicians",
+      "employment_trend": "Growing",
+      "onet_soc_code": "29-2053.00",
+      "soc_code": "29-2053",
+      "occupation_description": "Care for individuals with mental or emotional conditions or disabilities, following the instructions of physicians or other health practitioners. Monitor patients' physical and emotional well-being and report to medical staff. May participate in rehabilitation and treatment programs, help with personal hygiene, and administer oral or injectable medications.",
+      "extracted_skills": [
+        "the instructions",
+        "other health practitioners",
+        "medical staff",
+        "personal hygiene"
+      ]
+    }
+  ]
+}

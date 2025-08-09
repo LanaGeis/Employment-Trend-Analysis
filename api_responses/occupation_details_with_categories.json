@@ -1,0 +1,737 @@
+{
+  "occupations": [
+    {
+      "original_title": "Word Processors And Typists",
+      "onet_code": "43-9022.00",
+      "description": "Use word processor, computer, or typewriter to type letters, reports, forms, or other material from rough draft, corrected copy, or voice recording. May perform other clerical duties as assigned.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Word Processors And Typists",
+      "growth_status": "Declining",
+      "soc_code": "43-9022"
+    },
+    {
+      "original_title": "Roof Bolters, Mining",
+      "onet_code": "47-5043.00",
+      "description": "Operate machinery to install roof support bolts in underground mine.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Roof Bolters, Mining",
+      "growth_status": "Declining",
+      "soc_code": "47-5043"
+    },
+    {
+      "original_title": "Telephone Operators",
+      "onet_code": "43-2011.00",
+      "description": "Operate telephone business systems equipment or switchboards to relay incoming, outgoing, and interoffice calls. May supply information to callers and record messages.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Telephone Operators",
+      "growth_status": "Declining",
+      "soc_code": "43-2011"
+    },
+    {
+      "original_title": "Telephone Operators",
+      "onet_code": "43-2021.00",
+      "description": "Provide information by accessing alphabetical, geographical, or other directories. Assist customers with special billing requests, such as charges to a third party and credits or refunds for incorrectly dialed numbers or bad connections. May handle emergency calls and assist children or people with physical disabilities to make telephone calls.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Telephone Operators",
+      "growth_status": "Declining",
+      "soc_code": "43-2021"
+    },
+    {
+      "original_title": "Switchboard Operators, Including Answering Service",
+      "onet_code": "43-1011.00",
+      "description": "Directly supervise and coordinate the activities of clerical and administrative support workers.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Switchboard Operators, Including Answering Service",
+      "growth_status": "Declining",
+      "soc_code": "43-1011"
+    },
+    {
+      "original_title": "Switchboard Operators, Including Answering Service",
+      "onet_code": "43-2011.00",
+      "description": "Operate telephone business systems equipment or switchboards to relay incoming, outgoing, and interoffice calls. May supply information to callers and record messages.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Telephone Operators",
+      "growth_status": "Declining",
+      "soc_code": "43-2011"
+    },
+    {
+      "original_title": "Data Entry Keyers",
+      "onet_code": "43-9021.00",
+      "description": "Operate data entry device, such as keyboard or photo composing perforator. Duties may include verifying data and preparing materials for printing.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Data Entry Keyers",
+      "growth_status": "Declining",
+      "soc_code": "43-9021"
+    },
+    {
+      "original_title": "Foundry Mold And Coremakers",
+      "onet_code": "51-4071.00",
+      "description": "Make or form wax or sand cores or molds used in the production of metal castings in foundries.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Foundry Mold And Coremakers",
+      "growth_status": "Declining",
+      "soc_code": "51-4071"
+    },
+    {
+      "original_title": "Loading And Moving Machine Operators, Underground Mining",
+      "onet_code": "47-5044.00",
+      "description": "Operate underground loading or moving machine to load or move coal, ore, or rock using shuttle or mine car or conveyors. Equipment may include power shovels, hoisting engines equipped with cable-drawn scraper or scoop, or machines equipped with gathering arms and conveyor.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Loading And Moving Machine Operators, Underground Mining",
+      "growth_status": "Declining",
+      "soc_code": "47-5044"
+    },
+    {
+      "original_title": "Patternmakers, Metal And Plastic",
+      "onet_code": "51-4062.00",
+      "description": "Lay out, machine, fit, and assemble castings and parts to metal or plastic foundry patterns, core boxes, or match plates.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Patternmakers, Metal And Plastic",
+      "growth_status": "Declining",
+      "soc_code": "51-4062"
+    },
+    {
+      "original_title": "Telemarketers",
+      "onet_code": "41-9031.00",
+      "description": "Sell business goods or services, the selling of which requires a technical background equivalent to a baccalaureate degree in engineering.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Telemarketers",
+      "growth_status": "Declining",
+      "soc_code": "41-9031"
+    },
+    {
+      "original_title": "Telemarketers",
+      "onet_code": "41-9041.00",
+      "description": "Solicit donations or orders for goods or services over the telephone.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Telemarketers",
+      "growth_status": "Declining",
+      "soc_code": "41-9041"
+    },
+    {
+      "original_title": "Engine And Other Machine Assemblers",
+      "onet_code": "51-2023.00",
+      "description": "Assemble or modify electromechanical equipment or devices, such as servomechanisms, gyros, dynamometers, magnetic drums, tape drives, brakes, control linkage, actuators, and appliances.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Engine And Other Machine Assemblers",
+      "growth_status": "Declining",
+      "soc_code": "51-2023"
+    },
+    {
+      "original_title": "Engine And Other Machine Assemblers",
+      "onet_code": "51-2031.00",
+      "description": "Construct, assemble, or rebuild machines, such as engines, turbines, and similar equipment used in such industries as construction, extraction, textiles, and paper manufacturing.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Engine And Other Machine Assemblers",
+      "growth_status": "Declining",
+      "soc_code": "51-2031"
+    },
+    {
+      "original_title": "Manufactured Building And Mobile Home Installers",
+      "onet_code": "49-9095.00",
+      "description": "Move or install mobile homes or prefabricated buildings.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Manufactured Building And Mobile Home Installers",
+      "growth_status": "Declining",
+      "soc_code": "49-9095"
+    },
+    {
+      "original_title": "Drilling And Boring Machine Tool Setters, Operators, And Tenders, Metal And Plastic",
+      "onet_code": "51-4032.00",
+      "description": "Set up, operate, or tend drilling machines to drill, bore, ream, mill, or countersink metal or plastic work pieces.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Drilling And Boring Machine Tool Setters, Operators, And Tenders, Metal And Plastic",
+      "growth_status": "Declining",
+      "soc_code": "51-4032"
+    },
+    {
+      "original_title": "Prepress Technicians And Workers",
+      "onet_code": "51-5111.00",
+      "description": "Format and proof text and images submitted by designers and clients into finished pages that can be printed. Includes digital and photo typesetting. May produce printing plates.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Prepress Technicians And Workers",
+      "growth_status": "Declining",
+      "soc_code": "51-5111"
+    },
+    {
+      "original_title": "Cutters And Trimmers, Hand",
+      "onet_code": "51-9031.00",
+      "description": "Use hand tools or hand-held power tools to cut and trim a variety of manufactured items, such as carpet, fabric, stone, glass, or rubber.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Cutters And Trimmers, Hand",
+      "growth_status": "Declining",
+      "soc_code": "51-9031"
+    },
+    {
+      "original_title": "Order Clerks",
+      "onet_code": "43-4141.00",
+      "description": "Interview persons desiring to open accounts in financial institutions. Explain account services available to prospective customers and assist them in preparing applications.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Order Clerks",
+      "growth_status": "Declining",
+      "soc_code": "43-4141"
+    },
+    {
+      "original_title": "Order Clerks",
+      "onet_code": "43-4151.00",
+      "description": "Receive and process incoming orders for materials, merchandise, classified ads, or services such as repairs, installations, or rental of facilities. Generally receives orders via mail, phone, fax, or other electronic means. Duties include informing customers of receipt, prices, shipping dates, and delays; preparing contracts; and handling complaints.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Order Clerks",
+      "growth_status": "Declining",
+      "soc_code": "43-4151"
+    },
+    {
+      "original_title": "Grinding And Polishing Workers, Hand",
+      "onet_code": "51-9022.00",
+      "description": "Grind, sand, or polish, using hand tools or hand-held power tools, a variety of metal, wood, stone, clay, plastic, or glass objects. Includes chippers, buffers, and finishers.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Grinding And Polishing Workers, Hand",
+      "growth_status": "Declining",
+      "soc_code": "51-9022"
+    },
+    {
+      "original_title": "Refractory Materials Repairers, Except Brickmasons",
+      "onet_code": "49-9045.00",
+      "description": "Build or repair equipment such as furnaces, kilns, cupolas, boilers, converters, ladles, soaking pits, and ovens, using refractory materials.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Refractory Materials Repairers, Except Brickmasons",
+      "growth_status": "Declining",
+      "soc_code": "49-9045"
+    },
+    {
+      "original_title": "Model Makers, Metal And Plastic",
+      "onet_code": "51-4061.00",
+      "description": "Set up and operate machines, such as lathes, milling and engraving machines, and jig borers to make working models of metal or plastic objects. Includes template makers.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Model Makers, Metal And Plastic",
+      "growth_status": "Declining",
+      "soc_code": "51-4061"
+    },
+    {
+      "original_title": "Print Binding And Finishing Workers",
+      "onet_code": "51-5113.00",
+      "description": "Bind books and other publications or finish printed products by hand or machine. May set up binding and finishing machines.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Print Binding And Finishing Workers",
+      "growth_status": "Declining",
+      "soc_code": "51-5113"
+    },
+    {
+      "original_title": "Camera And Photographic Equipment Repairers",
+      "onet_code": "49-9061.00",
+      "description": "Repair and adjust cameras and photographic equipment, including commercial video and motion picture camera equipment.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Camera And Photographic Equipment Repairers",
+      "growth_status": "Declining",
+      "soc_code": "49-9061"
+    },
+    {
+      "original_title": "Aircraft Structure, Surfaces, Rigging, And Systems Assemblers",
+      "onet_code": "51-1011.00",
+      "description": "Directly supervise and coordinate the activities of production and operating workers, such as inspectors, precision workers, machine setters and operators, assemblers, fabricators, and plant and system operators. Excludes team or work leaders.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Aircraft Structure, Surfaces, Rigging, And Systems Assemblers",
+      "growth_status": "Declining",
+      "soc_code": "51-1011"
+    },
+    {
+      "original_title": "Aircraft Structure, Surfaces, Rigging, And Systems Assemblers",
+      "onet_code": "51-2011.00",
+      "description": "Assemble, fit, fasten, and install parts of airplanes, space vehicles, or missiles, such as tails, wings, fuselage, bulkheads, stabilizers, landing gear, rigging and control equipment, or heating and ventilating systems.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Aircraft Structure, Surfaces, Rigging, And Systems Assemblers",
+      "growth_status": "Declining",
+      "soc_code": "51-2011"
+    },
+    {
+      "original_title": "Timing Device Assemblers And Adjusters",
+      "onet_code": "51-2051.00",
+      "description": "Laminate layers of fiberglass on molds to form boat decks and hulls, bodies for golf carts, automobiles, or other products.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Timing Device Assemblers And Adjusters",
+      "growth_status": "Declining",
+      "soc_code": "51-2051"
+    },
+    {
+      "original_title": "Timing Device Assemblers And Adjusters",
+      "onet_code": "51-2061.00",
+      "description": "Perform precision assembling or adjusting, within narrow tolerances, of timing devices such as digital clocks or timing devices with electrical or electronic components.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Timing Device Assemblers And Adjusters",
+      "growth_status": "Declining",
+      "soc_code": "51-2061"
+    },
+    {
+      "original_title": "Forging Machine Setters, Operators, And Tenders, Metal And Plastic",
+      "onet_code": "51-4022.00",
+      "description": "Set up, operate, or tend forging machines to taper, shape, or form metal or plastic parts.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Forging Machine Setters, Operators, And Tenders, Metal And Plastic",
+      "growth_status": "Declining",
+      "soc_code": "51-4022"
+    },
+    {
+      "original_title": "Structural Metal Fabricators And Fitters",
+      "onet_code": "51-2031.00",
+      "description": "Construct, assemble, or rebuild machines, such as engines, turbines, and similar equipment used in such industries as construction, extraction, textiles, and paper manufacturing.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Engine And Other Machine Assemblers",
+      "growth_status": "Declining",
+      "soc_code": "51-2031"
+    },
+    {
+      "original_title": "Structural Metal Fabricators And Fitters",
+      "onet_code": "51-2041.00",
+      "description": "Fabricate, position, align, and fit parts of structural metal products.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Structural Metal Fabricators And Fitters",
+      "growth_status": "Declining",
+      "soc_code": "51-2041"
+    },
+    {
+      "original_title": "File Clerks",
+      "onet_code": "43-4061.00",
+      "description": "Determine eligibility of persons applying to receive assistance from government programs and agency resources, such as welfare, unemployment benefits, social security, and public housing.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "File Clerks",
+      "growth_status": "Declining",
+      "soc_code": "43-4061"
+    },
+    {
+      "original_title": "File Clerks",
+      "onet_code": "43-4071.00",
+      "description": "File correspondence, cards, invoices, receipts, and other records in alphabetical or numerical order or according to the filing system used. Locate and remove material from file when requested.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "File Clerks",
+      "growth_status": "Declining",
+      "soc_code": "43-4071"
+    },
+    {
+      "original_title": "Office Machine Operators, Except Computer",
+      "onet_code": "43-9061.00",
+      "description": "Perform duties too varied and diverse to be classified in any specific office clerical occupation, requiring knowledge of office systems and procedures. Clerical duties may be assigned in accordance with the office procedures of individual establishments and may include a combination of answering telephones, bookkeeping, typing or word processing, office machine operation, and filing.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Office Machine Operators, Except Computer",
+      "growth_status": "Declining",
+      "soc_code": "43-9061"
+    },
+    {
+      "original_title": "Office Machine Operators, Except Computer",
+      "onet_code": "43-9071.00",
+      "description": "Operate one or more of a variety of office machines, such as photocopying, photographic, and duplicating machines, or other office machines.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Office Machine Operators, Except Computer",
+      "growth_status": "Declining",
+      "soc_code": "43-9071"
+    },
+    {
+      "original_title": "Payroll And Timekeeping Clerks",
+      "onet_code": "43-3041.00",
+      "description": "In a gambling establishment, conduct financial transactions for patrons. Accept patron's credit application and verify credit references to provide check-cashing authorization or to establish house credit accounts. May reconcile daily summaries of transactions to balance books. May sell gambling chips, tokens, or tickets to patrons, or to other workers for resale to patrons. May convert gambling chips, tokens, or tickets to currency upon patron's request. May use a cash register or computer to record transaction.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Payroll And Timekeeping Clerks",
+      "growth_status": "Declining",
+      "soc_code": "43-3041"
+    },
+    {
+      "original_title": "Payroll And Timekeeping Clerks",
+      "onet_code": "43-3051.00",
+      "description": "Compile and record employee time and payroll data. May compute employees' time worked, production, and commission. May compute and post wages and deductions, or prepare paychecks.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Payroll And Timekeeping Clerks",
+      "growth_status": "Declining",
+      "soc_code": "43-3051"
+    },
+    {
+      "original_title": "Tellers",
+      "onet_code": "43-3061.00",
+      "description": "Compile information and records to draw up purchase orders for procurement of materials and services.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Tellers",
+      "growth_status": "Declining",
+      "soc_code": "43-3061"
+    },
+    {
+      "original_title": "Tellers",
+      "onet_code": "43-3071.00",
+      "description": "Receive and pay out money. Keep records of money and negotiable instruments involved in a financial institution's various transactions.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Tellers",
+      "growth_status": "Declining",
+      "soc_code": "43-3071"
+    },
+    {
+      "original_title": "Door-To-Door Sales Workers, News And Street Vendors, And Related Workers",
+      "onet_code": "41-9091.00",
+      "description": "Sell goods or services door-to-door or on the street.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Door-To-Door Sales Workers, News And Street Vendors, And Related Workers",
+      "growth_status": "Declining",
+      "soc_code": "41-9091"
+    },
+    {
+      "original_title": "New Accounts Clerks",
+      "onet_code": "43-4131.00",
+      "description": "Interview loan applicants to elicit information; investigate applicants' backgrounds and verify references; prepare loan request papers; and forward findings, reports, and documents to appraisal department. Review loan papers to ensure completeness, and complete transactions between loan establishment, borrowers, and sellers upon approval of loan.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "New Accounts Clerks",
+      "growth_status": "Declining",
+      "soc_code": "43-4131"
+    },
+    {
+      "original_title": "New Accounts Clerks",
+      "onet_code": "43-4141.00",
+      "description": "Interview persons desiring to open accounts in financial institutions. Explain account services available to prospective customers and assist them in preparing applications.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Order Clerks",
+      "growth_status": "Declining",
+      "soc_code": "43-4141"
+    },
+    {
+      "original_title": "Wind Turbine Service Technicians",
+      "onet_code": "49-9071.00",
+      "description": "Perform work involving the skills of two or more maintenance or craft occupations to keep machines, mechanical equipment, or the structure of a building in repair. Duties may involve pipe fitting; HVAC maintenance; insulating; welding; machining; carpentry; repairing electrical or mechanical equipment; installing, aligning, and balancing new equipment; and repairing buildings, floors, or stairs.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Wind Turbine Service Technicians",
+      "growth_status": "Growing",
+      "soc_code": "49-9071"
+    },
+    {
+      "original_title": "Wind Turbine Service Technicians",
+      "onet_code": "49-9081.00",
+      "description": "Inspect, diagnose, adjust, or repair wind turbines. Perform maintenance on wind turbine equipment including resolving electrical, mechanical, and hydraulic malfunctions.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Wind Turbine Service Technicians",
+      "growth_status": "Growing",
+      "soc_code": "49-9081"
+    },
+    {
+      "original_title": "Solar Photovoltaic Installers",
+      "onet_code": "47-2221.00",
+      "description": "Raise, place, and unite iron or steel girders, columns, and other structural members to form completed structures or structural frameworks. May erect metal storage tanks and assemble prefabricated metal buildings.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Solar Photovoltaic Installers",
+      "growth_status": "Growing",
+      "soc_code": "47-2221"
+    },
+    {
+      "original_title": "Solar Photovoltaic Installers",
+      "onet_code": "47-2231.00",
+      "description": "Assemble, install, or maintain solar photovoltaic (PV) systems on roofs or other structures in compliance with site assessment and schematics. May include measuring, cutting, assembling, and bolting structural framing and solar modules. May perform minor electrical work such as current checks.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Solar Photovoltaic Installers",
+      "growth_status": "Growing",
+      "soc_code": "47-2231"
+    },
+    {
+      "original_title": "Nurse Practitioners",
+      "onet_code": "29-1161.00",
+      "description": "Diagnose and coordinate all aspects of the birthing process, either independently or as part of a healthcare team. May provide well-woman gynecological care. Must have specialized, graduate nursing education.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Nurse Practitioners",
+      "growth_status": "Growing",
+      "soc_code": "29-1161"
+    },
+    {
+      "original_title": "Nurse Practitioners",
+      "onet_code": "29-1171.00",
+      "description": "Diagnose and treat acute, episodic, or chronic illness, independently or as part of a healthcare team. May focus on health promotion and disease prevention. May order, perform, or interpret diagnostic tests such as lab work and x rays. May prescribe medication. Must be registered nurses who have specialized graduate education.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Nurse Practitioners",
+      "growth_status": "Growing",
+      "soc_code": "29-1171"
+    },
+    {
+      "original_title": "Data Scientists",
+      "onet_code": "15-2041.00",
+      "description": "Develop or apply mathematical or statistical theory and methods to collect, organize, interpret, and summarize numerical data to provide usable information. May specialize in fields such as biostatistics, agricultural statistics, business statistics, or economic statistics. Includes mathematical and survey statisticians.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Data Scientists",
+      "growth_status": "Growing",
+      "soc_code": "15-2041"
+    },
+    {
+      "original_title": "Data Scientists",
+      "onet_code": "15-2051.00",
+      "description": "Develop and implement a set of techniques or analytics applications to transform raw data into meaningful information using data-oriented programming languages and visualization software. Apply data mining, data modeling, natural language processing, and machine learning to extract and analyze information from large structured and unstructured datasets. Visualize, interpret, and report data findings. May create dynamic data reports.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Data Scientists",
+      "growth_status": "Growing",
+      "soc_code": "15-2051"
+    },
+    {
+      "original_title": "Information Security Analysts",
+      "onet_code": "15-1212.00",
+      "description": "Plan, implement, upgrade, or monitor security measures for the protection of computer networks and information. Assess system vulnerabilities for security risks and propose and implement risk mitigation strategies. May ensure appropriate security controls are in place that will safeguard digital files and vital electronic infrastructure. May respond to computer security breaches and viruses.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Information Security Analysts",
+      "growth_status": "Growing",
+      "soc_code": "15-1212"
+    },
+    {
+      "original_title": "Physician Assistants",
+      "onet_code": "29-1051.00",
+      "description": "Dispense drugs prescribed by physicians and other health practitioners and provide information to patients about medications and their use. May advise physicians and other health practitioners on the selection, dosage, interactions, and side effects of medications.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Physician Assistants",
+      "growth_status": "Growing",
+      "soc_code": "29-1051"
+    },
+    {
+      "original_title": "Physician Assistants",
+      "onet_code": "29-1071.00",
+      "description": "Provide healthcare services typically performed by a physician, under the supervision of a physician. Conduct complete physicals, provide treatment, and counsel patients. May, in some cases, prescribe medication. Must graduate from an accredited educational program for physician assistants.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Physician Assistants",
+      "growth_status": "Growing",
+      "soc_code": "29-1071"
+    },
+    {
+      "original_title": "Computer And Information Research Scientists",
+      "onet_code": "15-1212.00",
+      "description": "Plan, implement, upgrade, or monitor security measures for the protection of computer networks and information. Assess system vulnerabilities for security risks and propose and implement risk mitigation strategies. May ensure appropriate security controls are in place that will safeguard digital files and vital electronic infrastructure. May respond to computer security breaches and viruses.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Information Security Analysts",
+      "growth_status": "Growing",
+      "soc_code": "15-1212"
+    },
+    {
+      "original_title": "Computer And Information Research Scientists",
+      "onet_code": "15-1221.00",
+      "description": "Conduct research into fundamental computer and information science as theorists, designers, or inventors. Develop solutions to problems in the field of computer hardware and software.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Computer And Information Research Scientists",
+      "growth_status": "Growing",
+      "soc_code": "15-1221"
+    },
+    {
+      "original_title": "Physical Therapist Assistants",
+      "onet_code": "31-2021.00",
+      "description": "Assist physical therapists in providing physical therapy treatments and procedures. May, in accordance with state laws, assist in the development of treatment plans, carry out routine functions, document the progress of treatment, and modify specific treatments in accordance with patient status and within the scope of treatment plans established by a physical therapist. Generally requires formal training.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Physical Therapist Assistants",
+      "growth_status": "Growing",
+      "soc_code": "31-2021"
+    },
+    {
+      "original_title": "Operations Research Analysts",
+      "onet_code": "15-2021.00",
+      "description": "Conduct research in fundamental mathematics or in application of mathematical techniques to science, management, and other fields. Solve problems in various fields using mathematical methods.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Operations Research Analysts",
+      "growth_status": "Growing",
+      "soc_code": "15-2021"
+    },
+    {
+      "original_title": "Operations Research Analysts",
+      "onet_code": "15-2031.00",
+      "description": "Formulate and apply mathematical modeling and other optimizing methods to develop and interpret information that assists management with decisionmaking, policy formulation, or other managerial functions. May collect and analyze data and develop decision support software, services, or products. May develop and supply optimal time, cost, or logistics networks for program evaluation, review, or implementation.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Operations Research Analysts",
+      "growth_status": "Growing",
+      "soc_code": "15-2031"
+    },
+    {
+      "original_title": "Occupational Therapy Assistants",
+      "onet_code": "31-2011.00",
+      "description": "Assist occupational therapists in providing occupational therapy treatments and procedures. May, in accordance with state laws, assist in development of treatment plans, carry out routine functions, direct activity programs, and document the progress of treatments. Generally requires formal training.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Occupational Therapy Assistants",
+      "growth_status": "Growing",
+      "soc_code": "31-2011"
+    },
+    {
+      "original_title": "Actuaries",
+      "onet_code": "15-1299.00",
+      "description": "All computer occupations not listed separately.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Actuaries",
+      "growth_status": "Growing",
+      "soc_code": "15-1299"
+    },
+    {
+      "original_title": "Actuaries",
+      "onet_code": "15-2011.00",
+      "description": "Analyze statistical data, such as mortality, accident, sickness, disability, and retirement rates and construct probability tables to forecast risk and liability for payment of future benefits. May ascertain insurance rates required and cash reserves necessary to ensure payment of future benefits.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Actuaries",
+      "growth_status": "Growing",
+      "soc_code": "15-2011"
+    },
+    {
+      "original_title": "Financial Examiners",
+      "onet_code": "13-2054.00",
+      "description": "Analyze and measure exposure to credit and market risk threatening the assets, earning capacity, or economic state of an organization. May make recommendations to limit risk.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Financial Examiners",
+      "growth_status": "Growing",
+      "soc_code": "13-2054"
+    },
+    {
+      "original_title": "Financial Examiners",
+      "onet_code": "13-2061.00",
+      "description": "Enforce or ensure compliance with laws and regulations governing financial and securities institutions and financial and real estate transactions. May examine, verify, or authenticate records.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Financial Examiners",
+      "growth_status": "Growing",
+      "soc_code": "13-2061"
+    },
+    {
+      "original_title": "Home Health And Personal Care Aides",
+      "onet_code": "31-9099.00",
+      "description": "All healthcare support workers not listed separately.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Home Health And Personal Care Aides",
+      "growth_status": "Growing",
+      "soc_code": "31-9099"
+    },
+    {
+      "original_title": "Veterinary Assistants And Laboratory Animal Caretakers",
+      "onet_code": "31-9096.00",
+      "description": "Feed, water, and examine pets and other nonfarm animals for signs of illness, disease, or injury in laboratories and animal hospitals and clinics. Clean and disinfect cages and work areas, and sterilize laboratory and surgical equipment. May provide routine postoperative care, administer medication orally or topically, or prepare samples for laboratory examination under the supervision of veterinary or laboratory animal technologists or technicians, veterinarians, or scientists.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Veterinary Assistants And Laboratory Animal Caretakers",
+      "growth_status": "Growing",
+      "soc_code": "31-9096"
+    },
+    {
+      "original_title": "Veterinary Technologists And Technicians",
+      "onet_code": "29-2056.00",
+      "description": "Perform medical tests in a laboratory environment for use in the treatment and diagnosis of diseases in animals. Prepare vaccines and serums for prevention of diseases. Prepare tissue samples, take blood samples, and execute laboratory tests, such as urinalysis and blood counts. Clean and sterilize instruments and materials and maintain equipment and machines. May assist a veterinarian during surgery.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Veterinary Technologists And Technicians",
+      "growth_status": "Growing",
+      "soc_code": "29-2056"
+    },
+    {
+      "original_title": "Logisticians",
+      "onet_code": "13-1081.00",
+      "description": "Analyze and coordinate the ongoing logistical functions of a firm or organization. Responsible for the entire life cycle of a product, including acquisition, distribution, internal allocation, delivery, and final disposal of resources.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Logisticians",
+      "growth_status": "Growing",
+      "soc_code": "13-1081"
+    },
+    {
+      "original_title": "Veterinarians",
+      "onet_code": "29-1129.00",
+      "description": "All therapists not listed separately.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Veterinarians",
+      "growth_status": "Growing",
+      "soc_code": "29-1129"
+    },
+    {
+      "original_title": "Veterinarians",
+      "onet_code": "29-1131.00",
+      "description": "Diagnose, treat, or research diseases and injuries of animals. Includes veterinarians who conduct research and development, inspect livestock, or care for pets and companion animals.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Veterinarians",
+      "growth_status": "Growing",
+      "soc_code": "29-1131"
+    },
+    {
+      "original_title": "Epidemiologists",
+      "onet_code": "19-1041.00",
+      "description": "Investigate and describe the determinants and distribution of disease, disability, or health outcomes. May develop the means for prevention and control.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Epidemiologists",
+      "growth_status": "Growing",
+      "soc_code": "19-1041"
+    },
+    {
+      "original_title": "Health Specialties Teachers, Postsecondary",
+      "onet_code": "25-1071.00",
+      "description": "Teach courses in health specialties, in fields such as dentistry, laboratory technology, medicine, pharmacy, public health, therapy, and veterinary medicine.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Health Specialties Teachers, Postsecondary",
+      "growth_status": "Growing",
+      "soc_code": "25-1071"
+    },
+    {
+      "original_title": "Speech-Language Pathologists",
+      "onet_code": "29-1127.00",
+      "description": "Assess and treat persons with speech, language, voice, and fluency disorders. May select alternative communication systems and teach their use. May perform research related to speech and language problems.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Speech-Language Pathologists",
+      "growth_status": "Growing",
+      "soc_code": "29-1127"
+    },
+    {
+      "original_title": "Medical Equipment Repairers",
+      "onet_code": "49-9062.00",
+      "description": "Test, adjust, or repair biomedical or electromedical equipment.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Medical Equipment Repairers",
+      "growth_status": "Growing",
+      "soc_code": "49-9062"
+    },
+    {
+      "original_title": "Software Developers",
+      "onet_code": "15-1252.00",
+      "description": "Research, design, and develop computer and network software or specialized utility programs. Analyze user needs and develop software solutions, applying principles and techniques of computer science, engineering, and mathematical analysis. Update software or enhance existing software capabilities. May work with computer hardware engineers to integrate hardware and software systems, and develop specifications and performance requirements. May maintain databases within an application area, working individually or coordinating database development as part of a team.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Software Developers",
+      "growth_status": "Growing",
+      "soc_code": "15-1252"
+    },
+    {
+      "original_title": "Nursing Instructors And Teachers, Postsecondary",
+      "onet_code": "25-1072.00",
+      "description": "Demonstrate and teach patient care in classroom and clinical units to nursing students. Includes both teachers primarily engaged in teaching and those who do a combination of teaching and research.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Nursing Instructors And Teachers, Postsecondary",
+      "growth_status": "Growing",
+      "soc_code": "25-1072"
+    },
+    {
+      "original_title": "Massage Therapists",
+      "onet_code": "31-2022.00",
+      "description": "Under close supervision of a physical therapist or physical therapy assistant, perform only delegated, selected, or routine tasks in specific situations. These duties include preparing the patient and the treatment area.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Massage Therapists",
+      "growth_status": "Growing",
+      "soc_code": "31-2022"
+    },
+    {
+      "original_title": "Massage Therapists",
+      "onet_code": "31-9011.00",
+      "description": "Perform therapeutic massages of soft tissues and joints. May assist in the assessment of range of motion and muscle strength, or propose client therapy plans.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Massage Therapists",
+      "growth_status": "Growing",
+      "soc_code": "31-9011"
+    },
+    {
+      "original_title": "Industrial Machinery Mechanics",
+      "onet_code": "49-9041.00",
+      "description": "Repair, install, adjust, or maintain industrial production and processing machinery or refinery and pipeline distribution systems. May also install, dismantle, or move machinery and heavy equipment according to plans.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Industrial Machinery Mechanics",
+      "growth_status": "Growing",
+      "soc_code": "49-9041"
+    },
+    {
+      "original_title": "Personal Financial Advisors",
+      "onet_code": "13-2052.00",
+      "description": "Advise clients on financial plans using knowledge of tax and investment strategies, securities, insurance, pension plans, and real estate. Duties include assessing clients' assets, liabilities, cash flow, insurance coverage, tax status, and financial objectives. May also buy and sell financial assets for clients.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Personal Financial Advisors",
+      "growth_status": "Growing",
+      "soc_code": "13-2052"
+    },
+    {
+      "original_title": "Psychiatric Technicians",
+      "onet_code": "29-2053.00",
+      "description": "Care for individuals with mental or emotional conditions or disabilities, following the instructions of physicians or other health practitioners. Monitor patients' physical and emotional well-being and report to medical staff. May participate in rehabilitation and treatment programs, help with personal hygiene, and administer oral or injectable medications.",
+      "job_family": "",
+      "2023_national_employment_matrix_title": "Psychiatric Technicians",
+      "growth_status": "Growing",
+      "soc_code": "29-2053"
+    }
+  ],
+  "metadata": {
+    "total_occupations": 81,
+    "timestamp": "2025-07-31T19:09:24.607685"
+  }
+}

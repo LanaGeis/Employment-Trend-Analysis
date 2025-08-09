@@ -1,0 +1,25 @@
+Sector,Name,Subsectors (3-digit),Industry Groups (4-digit),NAICS Industries (5-digit),6-digit Industries,6-digit Industries - Same as 5-digit,6-digit Industries - Total
+11,"Agriculture, Forestry, Fishing and Hunting",5.0,19.0,42.0,32,32,64
+21,"Mining, Quarrying, and Oil and Gas Extraction",3.0,5.0,11.0,14,7,21
+22,Utilities,1.0,3.0,6.0,10,4,14
+23,Construction,3.0,10.0,28.0,4,27,31
+31,Manufacturing,21.0,86.0,176.0,249,97,346
+32,Manufacturing,21.0,86.0,176.0,249,97,346
+33,Manufacturing,21.0,86.0,176.0,249,97,346
+42,Wholesale Trade,3.0,19.0,69.0,0,69,69
+44,Retail Trade,9.0,24.0,48.0,16,41,57
+45,Retail Trade,9.0,24.0,48.0,16,41,57
+48,Transportation and Warehousing,11.0,29.0,42.0,25,32,57
+49,Transportation and Warehousing,11.0,29.0,42.0,25,32,57
+51,Information,6.0,11.0,24.0,10,19,29
+52,Finance and Insurance,5.0,11.0,27.0,13,22,35
+53,Real Estate and Rental and Leasing,3.0,8.0,17.0,11,13,24
+54,"Professional, Scientific, and Technical Services",1.0,9.0,35.0,20,29,49
+55,Management of Companies and Enterprises,1.0,1.0,1.0,3,0,3
+56,Administrative and Support and Waste Management and Remediation Services,2.0,11.0,29.0,25,19,44
+61,Educational Services,1.0,7.0,12.0,7,10,17
+62,Health Care and Social Assistance,4.0,18.0,30.0,16,23,39
+71,"Arts, Entertainment, and Recreation",3.0,9.0,23.0,3,22,25
+72,Accommodation and Food Services,2.0,6.0,10.0,8,7,15
+81,Other Services (except Public Administration),4.0,14.0,30.0,24,20,44
+92,Public Administration,8.0,8.0,29.0,0,29,29
