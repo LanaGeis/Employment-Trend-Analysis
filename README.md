@@ -1,5 +1,21 @@
 # Term Project: Is AI taking our jobs or transforming them?
 A short, milestone-based data preparation and analysis project exploring how automation and AI relate to changes in occupations and skills. Work is organized in Jupyter notebooks across milestones (data collection, cleaning, merging, and basic analysis/visualization).
+## Project structure
+
+├─ data/                 # Raw and intermediate datasets (CSV/HTML/etc.)
+├─ notebooks/            # Jupyter notebooks for milestones and analysis
+│  ├─ milestone1_*.ipynb
+│  ├─ milestone2_*.ipynb
+│  ├─ milestone3_*.ipynb
+│  └─ ...
+├─ scripts/              # Reusable Python utilities and helpers
+├─ models/               # Saved models/artifacts
+├─ api_responses/        # Cached API responses for reproducibility
+├─ output/               # Generated reports, figures, and exports
+├─ requirements.txt      # Python dependencies list
+├─ env_template.env      # Example environment variables (no secrets)
+└─ README.md             # Project overview and instructions
+
 ## Quick start
 - Requirements:
     - Conda environment (Python 3.10.18)
@@ -36,9 +52,25 @@ NAICS_codes_path=data/2022_NAICS_Structure_Summary_Table - industry.csv
 ```
 Notebooks will load environment variables with python-dotenv. Keep real secrets only in your local env file.
 ## Data sources
-- Public labor statistics and occupation/skills datasets
-- Web pages and APIs referenced in the milestone notebooks
+- Bureau of Labor Statistics (BLS) — SOC structure and occupational statistics
+
+- U.S. Census Bureau — NAICS industry structure
+
+- O*NET API — Skills and job requirements data
+
+- Public HTML tables (“Fastest growing/declining occupations”)
+
+- Additional datasets from APIs and public data portals
+
+## Power BI Reports
+Power BI report files aew located in the *pbi_reports* folded
 
 ## Notes
-- Do not commit secrets. Keep files like env_var.env and any API key files out of version control.
-- Use your conda environment for all work in this project.
+- Keep secrets private — exclude env_var.env and any credential files from version control.
+
+- Always work inside the Conda environment (ai-jobs) to ensure package consistency.
+
+- Follow milestone notebooks in order for reproducible results.
+
+- For Power BI integration, connect to the SQLite database generated in Milestone 5.
+
