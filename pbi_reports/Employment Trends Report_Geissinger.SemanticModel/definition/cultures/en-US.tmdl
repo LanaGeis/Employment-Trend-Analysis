@@ -1,0 +1,7262 @@
+cultureInfo en-US
+
+	linguisticMetadata =
+			{
+			  "Version": "4.1.0",
+			  "Language": "en-US",
+			  "Entities": {
+			    "employment_trends_df": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "employment_trends_df"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "employment trends df": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "employment trend df": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "employment_trends_df": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "df": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "trends df": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "trend df": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.7566
+			          }
+			        }
+			      ]
+			    },
+			    "occupation_details_df": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "occupation_details_df"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "occupation details df": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "occupation detail df": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "occupation_details_df": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "df": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "details df": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "detail df": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.7566
+			          }
+			        }
+			      ]
+			    },
+			    "occupation_details_df.original_title": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "occupation_details_df",
+			          "ConceptualProperty": "original_title"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "original title": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "original_title": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "title": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "original designation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "designation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "original name": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "original award": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "original call": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "original heading": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "original label": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "award": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "call": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "heading": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "Occupation": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "occupation_details_df.onet_code": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "occupation_details_df",
+			          "ConceptualProperty": "onet_code"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "onet code": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "onet_code": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "onet id": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "onet key": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "occupation_details_df.description": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "occupation_details_df",
+			          "ConceptualProperty": "description"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "description": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "appearance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "descriptor": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "explanation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "specification": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "account": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "overview": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "report": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        }
+			      ]
+			    },
+			    "occupation_details_df.job_family": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "occupation_details_df",
+			          "ConceptualProperty": "job_family"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "job family": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "job_family": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "family": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "domestic": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "household": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "personal": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "intimate": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "private": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "job clan": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "job person": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "job kinfolk": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "clan": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.466
+			          }
+			        },
+			        {
+			          "person": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.466
+			          }
+			        }
+			      ]
+			    },
+			    "occupation_details_df.entity_2023_national_employment_matrix_title": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "occupation_details_df",
+			          "ConceptualProperty": "2023_national_employment_matrix_title"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "2023 national employment matrix title": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "2023_national_employment_matrix_title": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "title": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "matrix title": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "employment matrix title": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "national employment matrix title": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "2023 national employment matrix designation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "national employment matrix designation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.771
+			          }
+			        },
+			        {
+			          "employment matrix designation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "2023 national employment matrix name": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.757
+			          }
+			        },
+			        {
+			          "2023 national employment matrix award": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.757
+			          }
+			        },
+			        {
+			          "2023 national employment matrix call": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.757
+			          }
+			        },
+			        {
+			          "2023 national employment matrix heading": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.757
+			          }
+			        },
+			        {
+			          "2023 national employment matrix label": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.757
+			          }
+			        },
+			        {
+			          "matrix designation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "national employment matrix name": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.748
+			          }
+			        }
+			      ]
+			    },
+			    "occupation_details_df.growth_status": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "occupation_details_df",
+			          "ConceptualProperty": "growth_status"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "growth status": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "growth_status": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "status": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "growth category": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "growth importance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "growth prestige": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "growth prominence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "importance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "prestige": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "prominence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "growth condition": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "growth class": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "growth grade": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "occupation_details_df.soc_code": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "occupation_details_df",
+			          "ConceptualProperty": "soc_code"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "soc code": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "soc_code": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "soc id": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "soc key": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "skills_df": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "skills_df"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "skills df": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "skill df": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "skills_df": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "df": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ]
+			    },
+			    "skills_df.onetsoc_code": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "skills_df",
+			          "ConceptualProperty": "onetsoc_code"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "onetsoc code": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "onetsoc_code": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "onetsoc id": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "onetsoc key": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "skills_df.title": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "skills_df",
+			          "ConceptualProperty": "title"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "title": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "designation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "award": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "call": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "heading": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "label": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        }
+			      ]
+			    },
+			    "skills_df.element_id": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "skills_df",
+			          "ConceptualProperty": "element_id"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "element id": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "element_id": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "element": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "element identification": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "element identity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "element identifier": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "element credential": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "division": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "component": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "part": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "section": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "portion": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "constituent": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        }
+			      ]
+			    },
+			    "skills_df.element_name": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "skills_df",
+			          "ConceptualProperty": "element_name"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "element name": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "element_name": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "element": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "element nickname": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "element title": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "element label": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "element tag": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "division": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "component": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "part": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "section": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "portion": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "constituent": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        }
+			      ]
+			    },
+			    "skills_df.scale_id": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "skills_df",
+			          "ConceptualProperty": "scale_id"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "scale id": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "scale_id": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "scale": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "scale identification": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "scale identity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "scale identifier": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "scale credential": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "ruler": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "weighbridge": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "gage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "gauge": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "rule": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "measure": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        }
+			      ]
+			    },
+			    "skills_df.scale_name": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "skills_df",
+			          "ConceptualProperty": "scale_name"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "scale name": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "scale_name": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "scale": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "scale nickname": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "scale title": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "scale label": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "scale tag": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "ruler": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "weighbridge": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "gage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "gauge": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "rule": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "measure": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        }
+			      ]
+			    },
+			    "skills_df.data_value": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "skills_df",
+			          "ConceptualProperty": "data_value"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "data value": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "data_value": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "value": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "information value": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "fact value": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "info value": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "statistic value": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "document value": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "figure value": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "record value": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "data assessment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "assessment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "data worth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "skills_df.n": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "skills_df",
+			          "ConceptualProperty": "n"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "n": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "skills_df.standard_error": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "skills_df",
+			          "ConceptualProperty": "standard_error"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "standard error": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "standard_error": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "error": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "standard booboo": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "standard inaccuracy": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "standard miscalculation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "standard slipup": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "booboo": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "inaccuracy": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "miscalculation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "slipup": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "standard mistake": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "standard fault": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "skills_df.lower_ci_bound": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "skills_df",
+			          "ConceptualProperty": "lower_ci_bound"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "lower ci bound": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "lower_ci_bound": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "bound": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "ci bound": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "assured": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "duty-bound": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.466
+			          }
+			        }
+			      ]
+			    },
+			    "skills_df.upper_ci_bound": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "skills_df",
+			          "ConceptualProperty": "upper_ci_bound"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "upper ci bound": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "upper_ci_bound": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "bound": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "ci bound": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "assured": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "duty-bound": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.466
+			          }
+			        }
+			      ]
+			    },
+			    "skills_df.recommend_suppress": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "skills_df",
+			          "ConceptualProperty": "recommend_suppress"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "recommend suppress": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "recommend_suppress": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "skills_df.not_relevant": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "skills_df",
+			          "ConceptualProperty": "not_relevant"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "not relevant": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "not_relevant": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "skills_df.date": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "skills_df",
+			          "ConceptualProperty": "date"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "date": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "moment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "period": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        }
+			      ]
+			    },
+			    "employment_trends_df.employment_change_percent_202333": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "employment_trends_df",
+			          "ConceptualProperty": "employment_change_percent_202333"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "employment change percent 202333": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "employment_change_percent_202333": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "percent 202333": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "change percent 202333": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "% Employment Change_2023": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "employment_trends_df.employment_change_numeric_202333": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "employment_trends_df",
+			          "ConceptualProperty": "employment_change_numeric_202333"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "employment change numeric 202333": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "employment_change_numeric_202333": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "employment_trends_df.employment_2033": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "employment_trends_df",
+			          "ConceptualProperty": "employment_2033"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "employment 2033": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "employment_2033": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "employment_trends_df.employment_2023": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "employment_trends_df",
+			          "ConceptualProperty": "employment_2023"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "employment 2023": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "employment_2023": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "employment_trends_df.entity_2023_national_employment_matrix_code": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "employment_trends_df",
+			          "ConceptualProperty": "2023_national_employment_matrix_code"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "2023 national employment matrix code": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "2023_national_employment_matrix_code": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "matrix code": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "employment matrix code": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "national employment matrix code": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "2023 national employment matrix id": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "national employment matrix id": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.771
+			          }
+			        },
+			        {
+			          "employment matrix id": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "2023 national employment matrix key": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.757
+			          }
+			        },
+			        {
+			          "matrix id": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "national employment matrix key": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.748
+			          }
+			        },
+			        {
+			          "employment matrix key": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "matrix key": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "skills_df.domain_source": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "skills_df",
+			          "ConceptualProperty": "domain_source"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "domain source": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "domain_source": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "source": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "domain basis": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "domain font": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "domain birthplace": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "basis": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "font": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "birthplace": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "domain foundation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "domain cause": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "domain spring": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "domain cradle": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "soc_codes_df": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "soc_codes_df"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "soc codes df": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "soc code df": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "soc_codes_df": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "onet_code": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "onet_codes"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "onet code": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "onet_codes": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "onet id": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "onet key": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "onet_code.onet_code": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "onet_codes",
+			          "ConceptualProperty": "onet_code"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "onet code": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "code": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "onet code name": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "onet_code": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "onet id": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "onet key": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ],
+			      "NameType": "Name"
+			    },
+			    "employment_trends_df.rank_growth": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "employment_trends_df",
+			          "ConceptualProperty": "RankGrowth"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "rank growth": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "RankGrowth": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "growth": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "rank development": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "rank evolution": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "rank progression": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "development": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "evolution": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "progression": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "rank growing": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "rank progress": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "rank advance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "growing": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        }
+			      ]
+			    },
+			    "employment_trends_df.rank_decline": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "employment_trends_df",
+			          "ConceptualProperty": "RankDecline"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "rank decline": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "RankDecline": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "decline": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "rank failure": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "rank deterioration": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "rank degeneration": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "rank debility": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "rank regression": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "rank falloff": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "failure": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "deterioration": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "degeneration": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "debility": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        }
+			      ]
+			    },
+			    "employment_trends_df.entity_2023_national_employment_matrix_title": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "employment_trends_df",
+			          "ConceptualProperty": "2023_national_employment_matrix_title"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "2023 national employment matrix title": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "2023_national_employment_matrix_title": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "title": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "matrix title": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "employment matrix title": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "national employment matrix title": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "2023 national employment matrix designation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "national employment matrix designation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.771
+			          }
+			        },
+			        {
+			          "employment matrix designation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "2023 national employment matrix name": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.757
+			          }
+			        },
+			        {
+			          "2023 national employment matrix award": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.757
+			          }
+			        },
+			        {
+			          "2023 national employment matrix call": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.757
+			          }
+			        },
+			        {
+			          "2023 national employment matrix heading": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.757
+			          }
+			        },
+			        {
+			          "2023 national employment matrix label": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.757
+			          }
+			        },
+			        {
+			          "matrix designation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "national employment matrix name": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.748
+			          }
+			        },
+			        {
+			          "Occupations": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        },
+			        {
+			          "Occupation": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "employment_trends_df.median_annual_wage_dollars_2024": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "employment_trends_df",
+			          "ConceptualProperty": "median_annual_wage_dollars_2024"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "median annual wage dollars 2024": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "median annual wage dollar 2024": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "median_annual_wage_dollars_2024": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "dollars 2024": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "dollar 2024": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.7566
+			          }
+			        },
+			        {
+			          "wage dollars 2024": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "wage dollar 2024": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.7566
+			          }
+			        },
+			        {
+			          "annual wage dollars 2024": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "annual wage dollar 2024": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.7566
+			          }
+			        }
+			      ]
+			    },
+			    "employment_trends_df.growth_status": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "employment_trends_df",
+			          "ConceptualProperty": "growth_status"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "growth status": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "growth_status": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "status": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "growth category": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "growth importance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "growth prestige": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "growth prominence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "importance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "prestige": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "prominence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "growth condition": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "growth class": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "growth grade": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "employment_trends_df.annual_change_rate": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "employment_trends_df",
+			          "ConceptualProperty": "annual_change_rate"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "annual change rate": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "annual_change_rate": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "rate": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "change rate": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "annual change degree": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "annual change frequency": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "annual change percentage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "annual change ratio": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "annual change quotient": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "change degree": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "change frequency": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "change percentage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "change ratio": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "change quotient": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        }
+			      ]
+			    },
+			    "employment_trends_df.occupation_category": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "employment_trends_df",
+			          "ConceptualProperty": "occupation_category"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "occupation category": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "occupation_category": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "category": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "occupation classification": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "classification": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "occupation class": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "occupation type": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "occupation grouping": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "occupation kind": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "class": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "type": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "grouping": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "kind": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        }
+			      ]
+			    },
+			    "employment_trends_df.onet_code": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "employment_trends_df",
+			          "ConceptualProperty": "onet_code"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "onet code": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "onet_code": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "onet id": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "onet key": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "soc_codes_df.major_group": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "soc_codes_df",
+			          "ConceptualProperty": "major_group"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "major group": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "major_group": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "major category": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "major organization": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "major bracket": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "major class": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "major crew": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "major team": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "soc_codes_df.minor_group": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "soc_codes_df",
+			          "ConceptualProperty": "minor_group"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "minor group": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "minor_group": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "minor category": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "minor organization": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "minor bracket": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "minor class": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "minor crew": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "minor team": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "soc_codes_df.broad_group": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "soc_codes_df",
+			          "ConceptualProperty": "broad_group"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "broad group": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "broad_group": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "broad category": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "broad organization": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "broad bracket": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "broad class": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "broad crew": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "broad team": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "soc_codes_df.detailed_occupation": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "soc_codes_df",
+			          "ConceptualProperty": "detailed_occupation"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "detailed occupation": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "detailed_occupation": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "detailed profession": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "detailed livelihood": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "detailed vocation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "detailed job": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "detailed work": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "detailed career": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "detailed living": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "detailed employment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "detailed business": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "detailed calling": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "soc_codes_df.occupation_title": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "soc_codes_df",
+			          "ConceptualProperty": "occupation_title"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "occupation title": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "occupation_title": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "title": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "occupation designation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "designation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "occupation name": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "occupation award": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "occupation call": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "occupation heading": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "occupation label": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "award": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "call": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "heading": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "Occupation": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "onet_code.entity_2023_national_employment_matrix_code": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "onet_codes",
+			          "ConceptualProperty": "2023_national_employment_matrix_code"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "2023 national employment matrix code": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "2023_national_employment_matrix_code": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "matrix code": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "employment matrix code": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "national employment matrix code": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "2023 national employment matrix id": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "national employment matrix id": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.771
+			          }
+			        },
+			        {
+			          "employment matrix id": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "2023 national employment matrix key": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.757
+			          }
+			        },
+			        {
+			          "matrix id": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "national employment matrix key": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.748
+			          }
+			        },
+			        {
+			          "employment matrix key": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "matrix key": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "occupation_skills_df": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "occupation_skills_df"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "occupation skills df": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "occupation skill df": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "occupation_skills_df": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "df": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "skills df": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "skill df": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.7566
+			          }
+			        }
+			      ]
+			    },
+			    "occupation_skills_df.occupation_title": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "occupation_skills_df",
+			          "ConceptualProperty": "occupation_title"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "occupation title": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "occupation_title": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "title": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "occupation designation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "designation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "occupation name": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "occupation award": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "occupation call": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "occupation heading": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "occupation label": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "award": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "call": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "heading": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        }
+			      ]
+			    },
+			    "occupation_skills_df.employment_trend": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "occupation_skills_df",
+			          "ConceptualProperty": "employment_trend"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "employment trend": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "employment_trend": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "trend": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "employment tendency": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "employment inclination": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "employment movement": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "employment development": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "tendency": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "inclination": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "movement": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "development": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "employment drift": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "employment leaning": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "occupation_skills_df.onet_soc_code": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "occupation_skills_df",
+			          "ConceptualProperty": "onet_soc_code"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "onet soc code": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "onet_soc_code": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "onet soc id": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "onet soc key": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        }
+			      ]
+			    },
+			    "occupation_skills_df.occupation_description": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "occupation_skills_df",
+			          "ConceptualProperty": "occupation_description"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "occupation description": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "occupation_description": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "occupation appearance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "occupation descriptor": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "occupation explanation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "occupation specification": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "occupation account": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "occupation overview": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "occupation report": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "occupation_skills_df.extracted_skill": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "occupation_skills_df",
+			          "ConceptualProperty": "extracted_skills"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "extracted skill": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "extracted_skills": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "skill": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "extracted ability": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "extracted talent": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "extracted cleverness": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "extracted dexterity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "extracted expertise": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "extracted proficiency": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "extracted skillfulness": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "extracted handiness": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "extracted knack": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "extracted aptitude": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        }
+			      ]
+			    },
+			    "onet_code.occupation_skills_df_occupation_title": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "onet_codes",
+			          "ConceptualProperty": "occupation_skills_df.occupation_title"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "occupation_skills_df.occupation_title": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "occupation_skills_df.soc_codes_df_detailed_occupation": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "occupation_skills_df",
+			          "ConceptualProperty": "soc_codes_df.detailed_occupation"
+			        }
+			      },
+			      "State": "Generated",
+			      "Visibility": {
+			        "Value": "Hidden"
+			      },
+			      "Terms": [
+			        {
+			          "soc_codes_df.detailed_occupation": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "employment_trends_df.sum_employment_2023": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "employment_trends_df",
+			          "ConceptualProperty": "Sum_Employment_2023"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "sum employment 2023": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Sum_Employment_2023": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "summation employment 2023": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "aggregation employment 2023": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "total employment 2023": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "aggregate employment 2023": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "amount employment 2023": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "Employment_2023": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "employment_trends_df.sum_employment_2033": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "employment_trends_df",
+			          "ConceptualProperty": "Sum_Employment_2033"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "sum employment 2033": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Sum_Employment_2033": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "summation employment 2033": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "aggregation employment 2033": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "total employment 2033": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "aggregate employment 2033": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "amount employment 2033": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "Employment_2033": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "occupation_group": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Occupation Groups"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "occupation group": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "occupation organization": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "occupation bracket": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "occupation class": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "occupation crew": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "occupation team": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "occupation_group.occupational_group": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Occupation Groups",
+			          "ConceptualProperty": "Occupational group"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "occupational group": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "occupational category": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "occupational organization": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "occupational bracket": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "occupational class": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "occupational crew": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "occupational team": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "occupation_group.occupational_group_description": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Occupation Groups",
+			          "ConceptualProperty": "Occupational Group Description"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "occupational group description": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "group description": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "occupational group appearance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "occupational group descriptor": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "occupational group explanation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "occupational group specification": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "group appearance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "group descriptor": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "group explanation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "group specification": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "occupational group account": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "occupational group overview": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        }
+			      ]
+			    },
+			    "soc_codes_df.detailed_occupation_hierarchy": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "soc_codes_df",
+			          "Hierarchy": "detailed_occupation Hierarchy"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "detailed_occupation hierarchy": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "detailed_occupation ladder": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "detailed_occupation grading": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "detailed_occupation order": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "detailed_occupation pyramid": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "soc_codes_df.detailed_occupation_hierarchy.detailed_occupation": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "soc_codes_df",
+			          "Hierarchy": "detailed_occupation Hierarchy",
+			          "HierarchyLevel": "detailed_occupation"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "detailed occupation": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "detailed_occupation": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "detailed profession": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "detailed livelihood": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "detailed vocation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "detailed job": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "detailed work": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "detailed career": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "detailed living": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "detailed employment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "detailed business": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "detailed calling": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "soc_codes_df.detailed_occupation_hierarchy.major_group": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "soc_codes_df",
+			          "Hierarchy": "detailed_occupation Hierarchy",
+			          "HierarchyLevel": "major_group"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "major group": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "major_group": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "major category": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "major organization": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "major bracket": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "major class": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "major crew": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "major team": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "soc_codes_df.detailed_occupation_hierarchy.minor_group": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "soc_codes_df",
+			          "Hierarchy": "detailed_occupation Hierarchy",
+			          "HierarchyLevel": "minor_group"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "minor group": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "minor_group": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "minor category": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "minor organization": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "minor bracket": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "minor class": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "minor crew": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "minor team": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "soc_codes_df.detailed_occupation_hierarchy.broad_group": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "soc_codes_df",
+			          "Hierarchy": "detailed_occupation Hierarchy",
+			          "HierarchyLevel": "broad_group"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "broad group": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "broad_group": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "broad category": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "broad organization": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "broad bracket": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "broad class": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "broad crew": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        },
+			        {
+			          "broad team": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    }
+			  },
+			  "Relationships": {
+			    "soc_codes_df_detailed_occupation_hierarchy_major_group_has_soc_codes_df_detailed_occupation_hierarchy_minor_group": {
+			      "Binding": {
+			        "ConceptualEntity": "soc_codes_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "soc_codes_df.detailed_occupation_hierarchy.major_group": {
+			          "Target": {
+			            "Entity": "soc_codes_df.detailed_occupation_hierarchy.major_group"
+			          }
+			        },
+			        "soc_codes_df.detailed_occupation_hierarchy.minor_group": {
+			          "Target": {
+			            "Entity": "soc_codes_df.detailed_occupation_hierarchy.minor_group"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy.major_group"
+			            },
+			            "Object": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy.minor_group"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "major_groups_have_minor_groups"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy.minor_group"
+			            },
+			            "Object": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy.major_group"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "minor_groups_have_major_groups"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy.minor_group"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy.major_group"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "minor_groups_are_in_major_groups"
+			        }
+			      ]
+			    },
+			    "soc_codes_df_detailed_occupation_hierarchy_detailed_occupation_has_soc_codes_df_detailed_occupation_hierarchy_major_group": {
+			      "Binding": {
+			        "ConceptualEntity": "soc_codes_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "soc_codes_df.detailed_occupation_hierarchy.detailed_occupation": {
+			          "Target": {
+			            "Entity": "soc_codes_df.detailed_occupation_hierarchy.detailed_occupation"
+			          }
+			        },
+			        "soc_codes_df.detailed_occupation_hierarchy.major_group": {
+			          "Target": {
+			            "Entity": "soc_codes_df.detailed_occupation_hierarchy.major_group"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy.detailed_occupation"
+			            },
+			            "Object": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy.major_group"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "detailed_occupations_have_major_groups"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy.major_group"
+			            },
+			            "Object": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy.detailed_occupation"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "major_groups_have_detailed_occupations"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy.major_group"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy.detailed_occupation"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "major_groups_are_in_detailed_occupations"
+			        }
+			      ]
+			    },
+			    "soc_codes_df_detailed_occupation_hierarchy_has_broad_group": {
+			      "Binding": {
+			        "ConceptualEntity": "soc_codes_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "soc_codes_df.detailed_occupation_hierarchy": {
+			          "Target": {
+			            "Entity": "soc_codes_df.detailed_occupation_hierarchy"
+			          }
+			        },
+			        "soc_codes_df.detailed_occupation_hierarchy.broad_group": {
+			          "Target": {
+			            "Entity": "soc_codes_df.detailed_occupation_hierarchy.broad_group"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy.broad_group"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "detailed_occupation_hierarchies_have_broad_groups"
+			        }
+			      ]
+			    },
+			    "soc_codes_df_detailed_occupation_hierarchy_has_minor_group": {
+			      "Binding": {
+			        "ConceptualEntity": "soc_codes_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "soc_codes_df.detailed_occupation_hierarchy": {
+			          "Target": {
+			            "Entity": "soc_codes_df.detailed_occupation_hierarchy"
+			          }
+			        },
+			        "soc_codes_df.detailed_occupation_hierarchy.minor_group": {
+			          "Target": {
+			            "Entity": "soc_codes_df.detailed_occupation_hierarchy.minor_group"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy.minor_group"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "detailed_occupation_hierarchies_have_minor_groups"
+			        }
+			      ]
+			    },
+			    "soc_codes_df_detailed_occupation_hierarchy_has_major_group": {
+			      "Binding": {
+			        "ConceptualEntity": "soc_codes_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "soc_codes_df.detailed_occupation_hierarchy": {
+			          "Target": {
+			            "Entity": "soc_codes_df.detailed_occupation_hierarchy"
+			          }
+			        },
+			        "soc_codes_df.detailed_occupation_hierarchy.major_group": {
+			          "Target": {
+			            "Entity": "soc_codes_df.detailed_occupation_hierarchy.major_group"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy.major_group"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "detailed_occupation_hierarchies_have_major_groups"
+			        }
+			      ]
+			    },
+			    "soc_codes_df_detailed_occupation_hierarchy_has_detailed_occupation": {
+			      "Binding": {
+			        "ConceptualEntity": "soc_codes_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "soc_codes_df.detailed_occupation_hierarchy": {
+			          "Target": {
+			            "Entity": "soc_codes_df.detailed_occupation_hierarchy"
+			          }
+			        },
+			        "soc_codes_df.detailed_occupation_hierarchy.detailed_occupation": {
+			          "Target": {
+			            "Entity": "soc_codes_df.detailed_occupation_hierarchy.detailed_occupation"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy.detailed_occupation"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "detailed_occupation_hierarchies_have_detailed_occupations"
+			        }
+			      ]
+			    },
+			    "occupation_skills_df_has_employment_trends_df": {
+			      "Binding": {
+			        "ConceptualEntity": "occupation_skills_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "occupation_skills_df": {
+			          "Target": {
+			            "Entity": "occupation_skills_df"
+			          }
+			        },
+			        "employment_trends_df": {
+			          "Target": {
+			            "Entity": "employment_trends_df"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "occupation_skills_df"
+			            },
+			            "Object": {
+			              "Role": "employment_trends_df"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "occupation_skills_df_have_employment_trends_df"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "employment_trends_df"
+			            },
+			            "Object": {
+			              "Role": "occupation_skills_df"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "employment_trends_df_have_occupation_skills_df"
+			        }
+			      ]
+			    },
+			    "soc_codes_df_has_occupation_group": {
+			      "Binding": {
+			        "ConceptualEntity": "soc_codes_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "soc_codes_df": {
+			          "Target": {
+			            "Entity": "soc_codes_df"
+			          }
+			        },
+			        "occupation_group": {
+			          "Target": {
+			            "Entity": "occupation_group"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "soc_codes_df"
+			            },
+			            "Object": {
+			              "Role": "occupation_group"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "soc_codes_df_have_occupation_groups"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "occupation_group"
+			            },
+			            "Object": {
+			              "Role": "soc_codes_df"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "occupation_groups_have_soc_codes_df"
+			        }
+			      ]
+			    },
+			    "soc_codes_df_has_employment_trends_df": {
+			      "Binding": {
+			        "ConceptualEntity": "soc_codes_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "soc_codes_df": {
+			          "Target": {
+			            "Entity": "soc_codes_df"
+			          }
+			        },
+			        "employment_trends_df": {
+			          "Target": {
+			            "Entity": "employment_trends_df"
+			          },
+			          "Nouns": [
+			            {
+			              "Occupation": {
+			                "State": "Generated"
+			              }
+			            }
+			          ]
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "soc_codes_df"
+			            },
+			            "Object": {
+			              "Role": "employment_trends_df"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "soc_codes_df_have_employment_trends_df"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "employment_trends_df"
+			            },
+			            "Object": {
+			              "Role": "soc_codes_df"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "employment_trends_df_have_soc_codes_df"
+			        }
+			      ]
+			    },
+			    "skills_df_has_onet_code": {
+			      "Binding": {
+			        "ConceptualEntity": "skills_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "skills_df": {
+			          "Target": {
+			            "Entity": "skills_df"
+			          }
+			        },
+			        "onet_code": {
+			          "Target": {
+			            "Entity": "onet_code"
+			          }
+			        }
+			      }
+			    },
+			    "occupation_details_df_has_employment_trends_df": {
+			      "Binding": {
+			        "ConceptualEntity": "occupation_details_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "occupation_details_df": {
+			          "Target": {
+			            "Entity": "occupation_details_df"
+			          }
+			        },
+			        "employment_trends_df": {
+			          "Target": {
+			            "Entity": "employment_trends_df"
+			          },
+			          "Nouns": [
+			            {
+			              "Occupation": {
+			                "State": "Generated"
+			              }
+			            }
+			          ]
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "occupation_details_df"
+			            },
+			            "Object": {
+			              "Role": "employment_trends_df"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "occupation_details_df_have_employment_trends_df"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "employment_trends_df"
+			            },
+			            "Object": {
+			              "Role": "occupation_details_df"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "employment_trends_df_have_occupation_details_df"
+			        }
+			      ]
+			    },
+			    "employment_trends_df_has_onet_code": {
+			      "Binding": {
+			        "ConceptualEntity": "employment_trends_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "employment_trends_df": {
+			          "Target": {
+			            "Entity": "employment_trends_df"
+			          }
+			        },
+			        "onet_code": {
+			          "Target": {
+			            "Entity": "onet_code"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "employment_trends_df"
+			            },
+			            "Object": {
+			              "Role": "onet_code"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "employment_trends_df_have_onet_codes"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "onet_code"
+			            },
+			            "Object": {
+			              "Role": "employment_trends_df"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "onet_codes_have_employment_trends_df"
+			        }
+			      ]
+			    },
+			    "soc_codes_df_has_detailed_occupation_hierarchy": {
+			      "Binding": {
+			        "ConceptualEntity": "soc_codes_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "soc_codes_df": {
+			          "Target": {
+			            "Entity": "soc_codes_df"
+			          }
+			        },
+			        "soc_codes_df.detailed_occupation_hierarchy": {
+			          "Target": {
+			            "Entity": "soc_codes_df.detailed_occupation_hierarchy"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "soc_codes_df"
+			            },
+			            "Object": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "soc_codes_df_have_detailed_occupation_hierarchies"
+			        }
+			      ]
+			    },
+			    "occupation_group_has_occupational_group_description": {
+			      "Binding": {
+			        "ConceptualEntity": "Occupation Groups"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "occupation_group": {
+			          "Target": {
+			            "Entity": "occupation_group"
+			          }
+			        },
+			        "occupation_group.occupational_group_description": {
+			          "Target": {
+			            "Entity": "occupation_group.occupational_group_description"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "occupation_group"
+			            },
+			            "Object": {
+			              "Role": "occupation_group.occupational_group_description"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "occupation_groups_have_occupational_group_descriptions"
+			        }
+			      ]
+			    },
+			    "occupation_group_has_occupational_group": {
+			      "Binding": {
+			        "ConceptualEntity": "Occupation Groups"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "occupation_group": {
+			          "Target": {
+			            "Entity": "occupation_group"
+			          }
+			        },
+			        "occupation_group.occupational_group": {
+			          "Target": {
+			            "Entity": "occupation_group.occupational_group"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "occupation_group"
+			            },
+			            "Object": {
+			              "Role": "occupation_group.occupational_group"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "occupation_groups_have_occupational_groups"
+			        }
+			      ]
+			    },
+			    "employment_trends_df_has_sum_employment_2033": {
+			      "Binding": {
+			        "ConceptualEntity": "employment_trends_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "employment_trends_df": {
+			          "Target": {
+			            "Entity": "employment_trends_df"
+			          }
+			        },
+			        "employment_trends_df.sum_employment_2033": {
+			          "Target": {
+			            "Entity": "employment_trends_df.sum_employment_2033"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "employment_trends_df"
+			            },
+			            "Object": {
+			              "Role": "employment_trends_df.sum_employment_2033"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "employment_trends_df_have_sum_employment_2033"
+			        }
+			      ]
+			    },
+			    "employment_trends_df_has_sum_employment_2023": {
+			      "Binding": {
+			        "ConceptualEntity": "employment_trends_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "employment_trends_df": {
+			          "Target": {
+			            "Entity": "employment_trends_df"
+			          }
+			        },
+			        "employment_trends_df.sum_employment_2023": {
+			          "Target": {
+			            "Entity": "employment_trends_df.sum_employment_2023"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "employment_trends_df"
+			            },
+			            "Object": {
+			              "Role": "employment_trends_df.sum_employment_2023"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "employment_trends_df_have_sum_employment_2023"
+			        }
+			      ]
+			    },
+			    "onet_code_has_occupation_skills_df_occupation_title": {
+			      "Binding": {
+			        "ConceptualEntity": "onet_codes"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "onet_code": {
+			          "Target": {
+			            "Entity": "onet_code"
+			          }
+			        },
+			        "onet_code.occupation_skills_df_occupation_title": {
+			          "Target": {
+			            "Entity": "onet_code.occupation_skills_df_occupation_title"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "onet_code"
+			            },
+			            "Object": {
+			              "Role": "onet_code.occupation_skills_df_occupation_title"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "onet_codes_have_occupation_skills_df_occupation_titles"
+			        }
+			      ]
+			    },
+			    "occupation_skills_df_has_extracted_skill": {
+			      "Binding": {
+			        "ConceptualEntity": "occupation_skills_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "occupation_skills_df": {
+			          "Target": {
+			            "Entity": "occupation_skills_df"
+			          }
+			        },
+			        "occupation_skills_df.extracted_skill": {
+			          "Target": {
+			            "Entity": "occupation_skills_df.extracted_skill"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "occupation_skills_df"
+			            },
+			            "Object": {
+			              "Role": "occupation_skills_df.extracted_skill"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "occupation_skills_df_have_extracted_skills"
+			        }
+			      ]
+			    },
+			    "occupation_skills_df_has_occupation_description": {
+			      "Binding": {
+			        "ConceptualEntity": "occupation_skills_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "occupation_skills_df": {
+			          "Target": {
+			            "Entity": "occupation_skills_df"
+			          }
+			        },
+			        "occupation_skills_df.occupation_description": {
+			          "Target": {
+			            "Entity": "occupation_skills_df.occupation_description"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "occupation_skills_df"
+			            },
+			            "Object": {
+			              "Role": "occupation_skills_df.occupation_description"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "occupation_skills_df_have_occupation_descriptions"
+			        }
+			      ]
+			    },
+			    "occupation_skills_df_has_onet_soc_code": {
+			      "Binding": {
+			        "ConceptualEntity": "occupation_skills_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "occupation_skills_df": {
+			          "Target": {
+			            "Entity": "occupation_skills_df"
+			          }
+			        },
+			        "occupation_skills_df.onet_soc_code": {
+			          "Target": {
+			            "Entity": "occupation_skills_df.onet_soc_code"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "occupation_skills_df"
+			            },
+			            "Object": {
+			              "Role": "occupation_skills_df.onet_soc_code"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "occupation_skills_df_have_onet_soc_codes"
+			        }
+			      ]
+			    },
+			    "occupation_skills_df_has_employment_trend": {
+			      "Binding": {
+			        "ConceptualEntity": "occupation_skills_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "occupation_skills_df": {
+			          "Target": {
+			            "Entity": "occupation_skills_df"
+			          }
+			        },
+			        "occupation_skills_df.employment_trend": {
+			          "Target": {
+			            "Entity": "occupation_skills_df.employment_trend"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "occupation_skills_df"
+			            },
+			            "Object": {
+			              "Role": "occupation_skills_df.employment_trend"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "occupation_skills_df_have_employment_trends"
+			        }
+			      ]
+			    },
+			    "occupation_skills_df_has_occupation_title": {
+			      "Binding": {
+			        "ConceptualEntity": "occupation_skills_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "occupation_skills_df": {
+			          "Target": {
+			            "Entity": "occupation_skills_df"
+			          }
+			        },
+			        "occupation_skills_df.occupation_title": {
+			          "Target": {
+			            "Entity": "occupation_skills_df.occupation_title"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "occupation_skills_df"
+			            },
+			            "Object": {
+			              "Role": "occupation_skills_df.occupation_title"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "occupation_skills_df_have_occupation_titles"
+			        }
+			      ]
+			    },
+			    "onet_code_has_entity_2023_national_employment_matrix_code": {
+			      "Binding": {
+			        "ConceptualEntity": "onet_codes"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "onet_code": {
+			          "Target": {
+			            "Entity": "onet_code"
+			          }
+			        },
+			        "onet_code.entity_2023_national_employment_matrix_code": {
+			          "Target": {
+			            "Entity": "onet_code.entity_2023_national_employment_matrix_code"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "onet_code"
+			            },
+			            "Object": {
+			              "Role": "onet_code.entity_2023_national_employment_matrix_code"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "onet_codes_have_2023_national_employment_matrix_codes"
+			        }
+			      ]
+			    },
+			    "soc_codes_df_has_detailed_occupation": {
+			      "Binding": {
+			        "ConceptualEntity": "soc_codes_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "soc_codes_df": {
+			          "Target": {
+			            "Entity": "soc_codes_df"
+			          }
+			        },
+			        "soc_codes_df.detailed_occupation": {
+			          "Target": {
+			            "Entity": "soc_codes_df.detailed_occupation"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "soc_codes_df"
+			            },
+			            "Object": {
+			              "Role": "soc_codes_df.detailed_occupation"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "soc_codes_df_have_detailed_occupations"
+			        }
+			      ]
+			    },
+			    "soc_codes_df_has_broad_group": {
+			      "Binding": {
+			        "ConceptualEntity": "soc_codes_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "soc_codes_df": {
+			          "Target": {
+			            "Entity": "soc_codes_df"
+			          }
+			        },
+			        "soc_codes_df.broad_group": {
+			          "Target": {
+			            "Entity": "soc_codes_df.broad_group"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "soc_codes_df"
+			            },
+			            "Object": {
+			              "Role": "soc_codes_df.broad_group"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "soc_codes_df_have_broad_groups"
+			        }
+			      ]
+			    },
+			    "soc_codes_df_has_minor_group": {
+			      "Binding": {
+			        "ConceptualEntity": "soc_codes_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "soc_codes_df": {
+			          "Target": {
+			            "Entity": "soc_codes_df"
+			          }
+			        },
+			        "soc_codes_df.minor_group": {
+			          "Target": {
+			            "Entity": "soc_codes_df.minor_group"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "soc_codes_df"
+			            },
+			            "Object": {
+			              "Role": "soc_codes_df.minor_group"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "soc_codes_df_have_minor_groups"
+			        }
+			      ]
+			    },
+			    "employment_trends_df_has_occupation_category": {
+			      "Binding": {
+			        "ConceptualEntity": "employment_trends_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "employment_trends_df": {
+			          "Target": {
+			            "Entity": "employment_trends_df"
+			          }
+			        },
+			        "employment_trends_df.occupation_category": {
+			          "Target": {
+			            "Entity": "employment_trends_df.occupation_category"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "employment_trends_df"
+			            },
+			            "Object": {
+			              "Role": "employment_trends_df.occupation_category"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "employment_trends_df_have_occupation_categories"
+			        }
+			      ]
+			    },
+			    "employment_trends_df_has_annual_change_rate": {
+			      "Binding": {
+			        "ConceptualEntity": "employment_trends_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "employment_trends_df": {
+			          "Target": {
+			            "Entity": "employment_trends_df"
+			          }
+			        },
+			        "employment_trends_df.annual_change_rate": {
+			          "Target": {
+			            "Entity": "employment_trends_df.annual_change_rate"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "employment_trends_df"
+			            },
+			            "Object": {
+			              "Role": "employment_trends_df.annual_change_rate"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "employment_trends_df_have_annual_change_rates"
+			        }
+			      ]
+			    },
+			    "employment_trends_df_has_growth_status": {
+			      "Binding": {
+			        "ConceptualEntity": "employment_trends_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "employment_trends_df": {
+			          "Target": {
+			            "Entity": "employment_trends_df"
+			          }
+			        },
+			        "employment_trends_df.growth_status": {
+			          "Target": {
+			            "Entity": "employment_trends_df.growth_status"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "employment_trends_df"
+			            },
+			            "Object": {
+			              "Role": "employment_trends_df.growth_status"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "employment_trends_df_have_growth_statuses"
+			        }
+			      ]
+			    },
+			    "employment_trends_df_has_median_annual_wage_dollars_2024": {
+			      "Binding": {
+			        "ConceptualEntity": "employment_trends_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "employment_trends_df": {
+			          "Target": {
+			            "Entity": "employment_trends_df"
+			          }
+			        },
+			        "employment_trends_df.median_annual_wage_dollars_2024": {
+			          "Target": {
+			            "Entity": "employment_trends_df.median_annual_wage_dollars_2024"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "employment_trends_df"
+			            },
+			            "Object": {
+			              "Role": "employment_trends_df.median_annual_wage_dollars_2024"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "employment_trends_df_have_median_annual_wage_dollars_2024"
+			        }
+			      ]
+			    },
+			    "employment_trends_df_has_entity_2023_national_employment_matrix_title": {
+			      "Binding": {
+			        "ConceptualEntity": "employment_trends_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "employment_trends_df": {
+			          "Target": {
+			            "Entity": "employment_trends_df"
+			          }
+			        },
+			        "employment_trends_df.entity_2023_national_employment_matrix_title": {
+			          "Target": {
+			            "Entity": "employment_trends_df.entity_2023_national_employment_matrix_title"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "employment_trends_df"
+			            },
+			            "Object": {
+			              "Role": "employment_trends_df.entity_2023_national_employment_matrix_title"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "employment_trends_df_have_2023_national_employment_matrix_titles"
+			        }
+			      ]
+			    },
+			    "employment_trends_df_has_rank_decline": {
+			      "Binding": {
+			        "ConceptualEntity": "employment_trends_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "employment_trends_df": {
+			          "Target": {
+			            "Entity": "employment_trends_df"
+			          }
+			        },
+			        "employment_trends_df.rank_decline": {
+			          "Target": {
+			            "Entity": "employment_trends_df.rank_decline"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "employment_trends_df"
+			            },
+			            "Object": {
+			              "Role": "employment_trends_df.rank_decline"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "employment_trends_df_have_rank_declines"
+			        }
+			      ]
+			    },
+			    "employment_trends_df_has_rank_growth": {
+			      "Binding": {
+			        "ConceptualEntity": "employment_trends_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "employment_trends_df": {
+			          "Target": {
+			            "Entity": "employment_trends_df"
+			          }
+			        },
+			        "employment_trends_df.rank_growth": {
+			          "Target": {
+			            "Entity": "employment_trends_df.rank_growth"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "employment_trends_df"
+			            },
+			            "Object": {
+			              "Role": "employment_trends_df.rank_growth"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "employment_trends_df_have_rank_growths"
+			        }
+			      ]
+			    },
+			    "onet_code_has_onet_code": {
+			      "Binding": {
+			        "ConceptualEntity": "onet_codes"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "onet_code": {
+			          "Target": {
+			            "Entity": "onet_code"
+			          }
+			        },
+			        "onet_code.onet_code": {
+			          "Target": {
+			            "Entity": "onet_code.onet_code"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "onet_code"
+			            },
+			            "Object": {
+			              "Role": "onet_code.onet_code"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "onet_codes_have_onet_codes"
+			        },
+			        {
+			          "Name": {
+			            "Subject": {
+			              "Role": "onet_code"
+			            },
+			            "Name": {
+			              "Role": "onet_code.onet_code"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "onet_codes_are_names_IDs_of_onet_codes"
+			        }
+			      ]
+			    },
+			    "employment_trends_df_has_entity_2023_national_employment_matrix_code": {
+			      "Binding": {
+			        "ConceptualEntity": "employment_trends_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "employment_trends_df": {
+			          "Target": {
+			            "Entity": "employment_trends_df"
+			          }
+			        },
+			        "employment_trends_df.entity_2023_national_employment_matrix_code": {
+			          "Target": {
+			            "Entity": "employment_trends_df.entity_2023_national_employment_matrix_code"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "employment_trends_df"
+			            },
+			            "Object": {
+			              "Role": "employment_trends_df.entity_2023_national_employment_matrix_code"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "employment_trends_df_have_2023_national_employment_matrix_codes"
+			        }
+			      ]
+			    },
+			    "employment_trends_df_has_employment_2023": {
+			      "Binding": {
+			        "ConceptualEntity": "employment_trends_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "employment_trends_df": {
+			          "Target": {
+			            "Entity": "employment_trends_df"
+			          }
+			        },
+			        "employment_trends_df.employment_2023": {
+			          "Target": {
+			            "Entity": "employment_trends_df.employment_2023"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "employment_trends_df"
+			            },
+			            "Object": {
+			              "Role": "employment_trends_df.employment_2023"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "employment_trends_df_have_employment_2023"
+			        }
+			      ]
+			    },
+			    "employment_trends_df_has_employment_2033": {
+			      "Binding": {
+			        "ConceptualEntity": "employment_trends_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "employment_trends_df": {
+			          "Target": {
+			            "Entity": "employment_trends_df"
+			          }
+			        },
+			        "employment_trends_df.employment_2033": {
+			          "Target": {
+			            "Entity": "employment_trends_df.employment_2033"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "employment_trends_df"
+			            },
+			            "Object": {
+			              "Role": "employment_trends_df.employment_2033"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "employment_trends_df_have_employment_2033"
+			        }
+			      ]
+			    },
+			    "employment_trends_df_has_employment_change_numeric_202333": {
+			      "Binding": {
+			        "ConceptualEntity": "employment_trends_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "employment_trends_df": {
+			          "Target": {
+			            "Entity": "employment_trends_df"
+			          }
+			        },
+			        "employment_trends_df.employment_change_numeric_202333": {
+			          "Target": {
+			            "Entity": "employment_trends_df.employment_change_numeric_202333"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "employment_trends_df"
+			            },
+			            "Object": {
+			              "Role": "employment_trends_df.employment_change_numeric_202333"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "employment_trends_df_have_employment_change_numeric_202333"
+			        }
+			      ]
+			    },
+			    "employment_trends_df_has_employment_change_percent_202333": {
+			      "Binding": {
+			        "ConceptualEntity": "employment_trends_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "employment_trends_df": {
+			          "Target": {
+			            "Entity": "employment_trends_df"
+			          }
+			        },
+			        "employment_trends_df.employment_change_percent_202333": {
+			          "Target": {
+			            "Entity": "employment_trends_df.employment_change_percent_202333"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "employment_trends_df"
+			            },
+			            "Object": {
+			              "Role": "employment_trends_df.employment_change_percent_202333"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "employment_trends_df_have_employment_change_percent_202333"
+			        }
+			      ]
+			    },
+			    "occupation_details_df_has_soc_code": {
+			      "Binding": {
+			        "ConceptualEntity": "occupation_details_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "occupation_details_df": {
+			          "Target": {
+			            "Entity": "occupation_details_df"
+			          }
+			        },
+			        "occupation_details_df.soc_code": {
+			          "Target": {
+			            "Entity": "occupation_details_df.soc_code"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "occupation_details_df"
+			            },
+			            "Object": {
+			              "Role": "occupation_details_df.soc_code"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "occupation_details_df_have_soc_codes"
+			        }
+			      ]
+			    },
+			    "occupation_details_df_has_growth_status": {
+			      "Binding": {
+			        "ConceptualEntity": "occupation_details_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "occupation_details_df": {
+			          "Target": {
+			            "Entity": "occupation_details_df"
+			          }
+			        },
+			        "occupation_details_df.growth_status": {
+			          "Target": {
+			            "Entity": "occupation_details_df.growth_status"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "occupation_details_df"
+			            },
+			            "Object": {
+			              "Role": "occupation_details_df.growth_status"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "occupation_details_df_have_growth_statuses"
+			        }
+			      ]
+			    },
+			    "occupation_details_df_has_entity_2023_national_employment_matrix_title": {
+			      "Binding": {
+			        "ConceptualEntity": "occupation_details_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "occupation_details_df": {
+			          "Target": {
+			            "Entity": "occupation_details_df"
+			          }
+			        },
+			        "occupation_details_df.entity_2023_national_employment_matrix_title": {
+			          "Target": {
+			            "Entity": "occupation_details_df.entity_2023_national_employment_matrix_title"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "occupation_details_df"
+			            },
+			            "Object": {
+			              "Role": "occupation_details_df.entity_2023_national_employment_matrix_title"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "occupation_details_df_have_2023_national_employment_matrix_titles"
+			        }
+			      ]
+			    },
+			    "occupation_details_df_has_job_family": {
+			      "Binding": {
+			        "ConceptualEntity": "occupation_details_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "occupation_details_df": {
+			          "Target": {
+			            "Entity": "occupation_details_df"
+			          }
+			        },
+			        "occupation_details_df.job_family": {
+			          "Target": {
+			            "Entity": "occupation_details_df.job_family"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "occupation_details_df"
+			            },
+			            "Object": {
+			              "Role": "occupation_details_df.job_family"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "occupation_details_df_have_job_families"
+			        }
+			      ]
+			    },
+			    "occupation_details_df_has_description": {
+			      "Binding": {
+			        "ConceptualEntity": "occupation_details_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "occupation_details_df": {
+			          "Target": {
+			            "Entity": "occupation_details_df"
+			          }
+			        },
+			        "occupation_details_df.description": {
+			          "Target": {
+			            "Entity": "occupation_details_df.description"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "occupation_details_df"
+			            },
+			            "Object": {
+			              "Role": "occupation_details_df.description"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "occupation_details_df_have_descriptions"
+			        }
+			      ]
+			    },
+			    "occupation_details_df_has_onet_code": {
+			      "Binding": {
+			        "ConceptualEntity": "occupation_details_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "occupation_details_df": {
+			          "Target": {
+			            "Entity": "occupation_details_df"
+			          }
+			        },
+			        "occupation_details_df.onet_code": {
+			          "Target": {
+			            "Entity": "occupation_details_df.onet_code"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "occupation_details_df"
+			            },
+			            "Object": {
+			              "Role": "occupation_details_df.onet_code"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "occupation_details_df_have_onet_codes"
+			        }
+			      ]
+			    },
+			    "soc_codes_df_detailed_occupation_hierarchy_minor_group_has_soc_codes_df_detailed_occupation_hierarchy_broad_group": {
+			      "Binding": {
+			        "ConceptualEntity": "soc_codes_df"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "soc_codes_df.detailed_occupation_hierarchy.minor_group": {
+			          "Target": {
+			            "Entity": "soc_codes_df.detailed_occupation_hierarchy.minor_group"
+			          }
+			        },
+			        "soc_codes_df.detailed_occupation_hierarchy.broad_group": {
+			          "Target": {
+			            "Entity": "soc_codes_df.detailed_occupation_hierarchy.broad_group"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy.minor_group"
+			            },
+			            "Object": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy.broad_group"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "minor_groups_have_broad_groups"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy.broad_group"
+			            },
+			            "Object": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy.minor_group"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "broad_groups_have_minor_groups"
+			        },
+			        {
+			          "Preposition": {
+			            "Subject": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy.broad_group"
+			            },
+			            "Prepositions": [
+			              {
+			                "in": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "soc_codes_df.detailed_occupation_hierarchy.minor_group"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "broad_groups_are_in_minor_groups"
+			        }
+			      ]
+			    }
+			  },
+			  "Agents": {
+			    "Internal": {
+			      "Version": "1.1.0"
+			    }
+			  }
+			}
+		contentType: json
+

@@ -1,0 +1,35 @@
+table 'Occupation Groups'
+	lineageTag: 85668a36-da45-4473-a90b-dd3675e994bd
+
+	column 'Occupational group'
+		dataType: string
+		lineageTag: c1690532-6c09-4be7-988e-936400bad643
+		summarizeBy: none
+		sourceColumn: Occupational group
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Occupational Group Description'
+		dataType: string
+		lineageTag: 85780044-97d9-4f73-b547-92d2a65fe708
+		summarizeBy: none
+		sourceColumn: Occupational Group Description
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'Occupation Groups' = m
+		mode: import
+		source =
+				let
+				    Source = Excel.Workbook(File.Contents("C:\Users\geiss\PycharmProjects\Term_Project_Geissinger\data\Occupational groups.xlsx"), null, true),
+				    Sheet1_Sheet = Source{[Item="Sheet1",Kind="Sheet"]}[Data],
+				    #"Changed Type" = Table.TransformColumnTypes(Sheet1_Sheet,{{"Column1", type text}, {"Column2", type text}}),
+				    #"Promoted Headers" = Table.PromoteHeaders(#"Changed Type", [PromoteAllScalars=true]),
+				    #"Changed Type1" = Table.TransformColumnTypes(#"Promoted Headers",{{"Occupational group", type text}, {"Occupational Group Description", type text}})
+				in
+				    #"Changed Type1"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

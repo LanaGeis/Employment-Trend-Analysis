@@ -1,0 +1,95 @@
+table occupation_details_df
+	lineageTag: 3a8652d4-b33b-4227-b2bf-bc5a2f7a063d
+
+	column original_title
+		dataType: string
+		lineageTag: e8874814-4e40-4a31-ad93-1f12c2d8b854
+		summarizeBy: none
+		sourceColumn: original_title
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column onet_code
+		dataType: string
+		lineageTag: 09c005a3-e256-4778-8497-eaa007e5731d
+		summarizeBy: none
+		sourceColumn: onet_code
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column description
+		dataType: string
+		lineageTag: 01e76321-b76f-4acb-bd23-d62a481a5c61
+		summarizeBy: none
+		sourceColumn: description
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column job_family
+		dataType: string
+		lineageTag: d9af67c7-6da4-4c39-8b94-3c2b8ae8b71a
+		summarizeBy: none
+		sourceColumn: job_family
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column 2023_national_employment_matrix_title
+		dataType: string
+		lineageTag: 19a81442-4dfd-4918-b27a-72c6b6687686
+		summarizeBy: none
+		sourceColumn: 2023_national_employment_matrix_title
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column growth_status
+		dataType: string
+		lineageTag: 98f28cfe-2ac6-4062-b6f3-f84cbeeab9f3
+		summarizeBy: none
+		sourceColumn: growth_status
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column soc_code
+		dataType: string
+		lineageTag: 9c0d0533-3474-4a6e-a33f-a85731021806
+		summarizeBy: none
+		sourceColumn: soc_code
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	partition occupation_details_df = m
+		mode: import
+		source =
+				let
+				    Source = Python.Execute("import sqlite3#(lf)import pandas as pd#(lf)#(lf)# Connect to SQLite database#(lf)conn = sqlite3.connect(r""C:/Users/geiss/PycharmProjects/Term_Project_Geissinger/data/job_analysis.db"")#(lf)#(lf)# Read tables into separate DataFrames#(lf)employment_trends_df = pd.read_sql_query(""SELECT * FROM employment_trends"", conn)#(lf)occupation_details_df = pd.read_sql_query(""SELECT * FROM occupation_details"", conn)#(lf)skills_df = pd.read_sql_query(""SELECT * FROM skills"", conn)#(lf)soc_codes_df = pd.read_sql_query(""SELECT * FROM soc_codes"", conn)#(lf)"),
+				    occupation_details_df1 = Source{[Name="occupation_details_df"]}[Value],
+				    #"Changed Type" = Table.TransformColumnTypes(occupation_details_df1,{{"original_title", type text}, {"onet_code", type text}, {"description", type text}, {"job_family", type text}, {"2023_national_employment_matrix_title", type text}, {"growth_status", type text}, {"soc_code", type text}}),
+				    #"Run Python script" = Python.Execute("# 'dataset' holds the input data for this script#(lf)",[dataset=#"Changed Type"]),
+				    dataset = #"Run Python script"{[Name="dataset"]}[Value],
+				    #"Changed Type1" = Table.TransformColumnTypes(dataset,{{"original_title", type text}, {"onet_code", type text}, {"description", type text}, {"job_family", type text}, {"2023_national_employment_matrix_title", type text}, {"growth_status", type text}, {"soc_code", type text}}),
+				    #"Run Python script1" = Python.Execute("# 'dataset' holds the input data for this script#(lf)",[dataset=#"Changed Type1"]),
+				    dataset1 = #"Run Python script1"{[Name="dataset"]}[Value],
+				    #"Changed Type2" = Table.TransformColumnTypes(dataset1,{{"original_title", type text}, {"onet_code", type text}, {"description", type text}, {"job_family", type text}, {"2023_national_employment_matrix_title", type text}, {"growth_status", type text}, {"soc_code", type text}})
+				in
+				    #"Changed Type2"
+
+	changedProperty = IsHidden
+
+	annotation PBI_ResultType = Table
+
+	annotation PBI_NavigationStepName = Navigation
+

@@ -1,0 +1,29 @@
+relationship 5814c508-eaba-9d93-86da-3ea4efd8779d
+	fromColumn: skills_df.onetsoc_code
+	toColumn: onet_codes.onet_code
+
+relationship AutoDetected_180e4cfe-086a-48ec-b69a-dfb5d10ba6ca
+	fromColumn: employment_trends_df.onet_code
+	toColumn: onet_codes.onet_code
+
+relationship 2ad095be-f440-f7d6-86da-c87b48d88554
+	isActive: false
+	fromColumn: occupation_skills_df.onet_soc_code
+	toColumn: onet_codes.onet_code
+
+relationship 4f788fc8-f7de-bbe9-ad23-2ec417be6fba
+	fromColumn: occupation_skills_df.'soc_codes_df.detailed_occupation'
+	toColumn: employment_trends_df.2023_national_employment_matrix_code
+
+relationship 9ecbac3b-e844-b1c4-b8d3-00d895bd2ae0
+	fromColumn: occupation_details_df.original_title
+	toColumn: employment_trends_df.2023_national_employment_matrix_title
+
+relationship 8c8a2d50-791a-b076-f3a1-15b11505cc71
+	fromColumn: soc_codes_df.occupation_title
+	toColumn: employment_trends_df.2023_national_employment_matrix_title
+
+relationship adb29d9d-3db5-ff18-a4bb-9e898056f4b6
+	fromColumn: soc_codes_df.major_group
+	toColumn: 'Occupation Groups'.'Occupational group'
+

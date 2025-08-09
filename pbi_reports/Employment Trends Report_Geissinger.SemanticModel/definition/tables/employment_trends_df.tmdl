@@ -1,0 +1,183 @@
+table employment_trends_df
+	lineageTag: 81c51dc7-2556-40be-9fc5-d144620e0f8d
+
+	measure Sum_Employment_2023 = ```
+			
+			CALCULATE(
+			    SUM(employment_trends_df[employment_2023]),
+			    FILTER(
+			        employment_trends_df,
+			        employment_trends_df[2023_national_employment_matrix_title] = 
+			            SELECTEDVALUE(soc_codes_df[occupation_title])
+			    )
+			)
+			```
+		lineageTag: 99b77cb3-7980-4db6-9781-9e9d5000ec7a
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	measure Sum_Employment_2033 = ```
+			
+			CALCULATE(
+			    SUM(employment_trends_df[employment_2033]),
+			    FILTER(
+			        employment_trends_df,
+			        employment_trends_df[2023_national_employment_matrix_title] = 
+			            SELECTEDVALUE(soc_codes_df[occupation_title])
+			    )
+			)
+			```
+		lineageTag: d7f09473-6ed5-456d-8447-4eaae3b5779f
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column RankGrowth = ```
+			
+			RANKX(
+			    ALL('employment_trends_df'[2023_national_employment_matrix_title]), 
+			    'employment_trends_df'[employment_change_percent_202333], 
+			    , 
+			    DESC, 
+			    Dense
+			)
+			
+			```
+		formatString: 0
+		lineageTag: b60cfd67-750d-4890-ac9c-db399197a374
+		summarizeBy: sum
+
+		annotation SummarizationSetBy = Automatic
+
+	column RankDecline = ```
+			
+			RANKX(
+			    ALL('employment_trends_df'[2023_national_employment_matrix_title]), 
+			    'employment_trends_df'[employment_change_percent_202333], 
+			    , 
+			    ASC, 
+			    Dense
+			)
+			
+			```
+		formatString: 0
+		lineageTag: 01e33a21-ddf5-477f-bc07-da5667092ab3
+		summarizeBy: sum
+
+		annotation SummarizationSetBy = Automatic
+
+	column 2023_national_employment_matrix_title
+		dataType: string
+		lineageTag: f2f138ac-722d-4f87-a273-684c049d6419
+		summarizeBy: none
+		sourceColumn: 2023_national_employment_matrix_title
+
+		annotation SummarizationSetBy = Automatic
+
+	column 2023_national_employment_matrix_code
+		dataType: string
+		lineageTag: 6f6951dc-bb4a-4225-a5d1-79870fe2fe23
+		summarizeBy: none
+		sourceColumn: 2023_national_employment_matrix_code
+
+		annotation SummarizationSetBy = Automatic
+
+	column employment_2023
+		dataType: double
+		lineageTag: 050430f2-25dd-4187-9a3f-1ed668f68aa9
+		summarizeBy: sum
+		sourceColumn: employment_2023
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column employment_2033
+		dataType: double
+		lineageTag: fe06895f-04e8-40e4-b0d1-84bf777cd0db
+		summarizeBy: sum
+		sourceColumn: employment_2033
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column employment_change_numeric_202333
+		dataType: double
+		lineageTag: b04fca32-fb51-46f4-9d4c-84ea0f188a28
+		summarizeBy: sum
+		sourceColumn: employment_change_numeric_202333
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column employment_change_percent_202333
+		dataType: double
+		lineageTag: e44b8b92-9d94-4b6a-a2ea-926a7933c88f
+		summarizeBy: sum
+		sourceColumn: employment_change_percent_202333
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column median_annual_wage_dollars_2024
+		dataType: int64
+		formatString: 0
+		lineageTag: bdb93323-d507-47ec-b836-32b58e6851a2
+		summarizeBy: sum
+		sourceColumn: median_annual_wage_dollars_2024
+
+		annotation SummarizationSetBy = Automatic
+
+	column growth_status
+		dataType: string
+		lineageTag: 801b5f98-b3b9-4987-895b-1dbfe431d00e
+		summarizeBy: none
+		sourceColumn: growth_status
+
+		annotation SummarizationSetBy = Automatic
+
+	column annual_change_rate
+		dataType: double
+		lineageTag: 8a6d86c1-2c58-42fa-b542-e2468ef88dee
+		summarizeBy: sum
+		sourceColumn: annual_change_rate
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column occupation_category
+		dataType: int64
+		formatString: 0
+		lineageTag: 253ce254-eace-46b4-98df-6a134796d333
+		summarizeBy: sum
+		sourceColumn: occupation_category
+
+		annotation SummarizationSetBy = Automatic
+
+	column onet_code
+		dataType: string
+		lineageTag: 33b03637-f269-405d-9a1a-153c1d17272e
+		summarizeBy: none
+		sourceColumn: onet_code
+
+		annotation SummarizationSetBy = Automatic
+
+	partition employment_trends_df = m
+		mode: import
+		source =
+				let
+				    Source = Python.Execute("import sqlite3#(lf)import pandas as pd#(lf)#(lf)# Connect to SQLite database#(lf)conn = sqlite3.connect(r""C:/Users/geiss/PycharmProjects/Term_Project_Geissinger/data/job_analysis.db"")#(lf)#(lf)# Read tables into separate DataFrames#(lf)employment_trends_df = pd.read_sql_query(""SELECT * FROM employment_trends"", conn)#(lf)occupation_details_df = pd.read_sql_query(""SELECT * FROM occupation_details"", conn)#(lf)skills_df = pd.read_sql_query(""SELECT * FROM skills"", conn)#(lf)soc_codes_df = pd.read_sql_query(""SELECT * FROM soc_codes"", conn)#(lf)occupation_skills_df = pd.read_sql_query(""SELECT * FROM occupation_skills"", conn)#(lf)#(lf)conn.close()#(lf)#(lf)"),
+				    employment_trends_df1 = Source{[Name="employment_trends_df"]}[Value],
+				    #"Changed Type" = Table.TransformColumnTypes(employment_trends_df1,{{"2023_national_employment_matrix_title", type text}, {"2023_national_employment_matrix_code", type text}, {"employment_2023", type number}, {"employment_2033", type number}, {"employment_change_numeric_202333", type number}, {"employment_change_percent_202333", type number}, {"median_annual_wage_dollars_2024", Int64.Type}, {"growth_status", type text}, {"annual_change_rate", type number}, {"occupation_category", Int64.Type}, {"onet_code", type text}}),
+				    #"Sorted Rows" = Table.Sort(#"Changed Type",{{"employment_2023", Order.Descending}}),
+				    #"Removed Top Rows" = Table.Skip(#"Sorted Rows",1)
+				in
+				    #"Removed Top Rows"
+
+	annotation PBI_ResultType = Table
+
+	annotation PBI_NavigationStepName = Navigation
+

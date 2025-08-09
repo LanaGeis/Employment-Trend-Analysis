@@ -1,0 +1,79 @@
+table soc_codes_df
+	lineageTag: e5ea4f95-d894-4a72-b367-4c3580b70d92
+
+	column major_group
+		dataType: string
+		lineageTag: 29f56b4f-acb9-447f-9b9a-80766a05d528
+		summarizeBy: none
+		sourceColumn: major_group
+
+		annotation SummarizationSetBy = Automatic
+
+	column minor_group
+		dataType: string
+		lineageTag: 9471b470-532f-48ba-8c98-2fc8ae6da838
+		summarizeBy: none
+		sourceColumn: minor_group
+
+		annotation SummarizationSetBy = Automatic
+
+	column broad_group
+		dataType: string
+		lineageTag: 8b5aae57-9509-4754-a62d-5bd93470b8bf
+		summarizeBy: none
+		sourceColumn: broad_group
+
+		annotation SummarizationSetBy = Automatic
+
+	column detailed_occupation
+		dataType: string
+		lineageTag: a84e0b94-9dd0-4622-bfe8-2a3b872c952b
+		summarizeBy: none
+		sourceColumn: detailed_occupation
+
+		annotation SummarizationSetBy = Automatic
+
+	column occupation_title
+		dataType: string
+		lineageTag: 7c023964-3978-4365-bb51-8e3acc7ba046
+		summarizeBy: none
+		sourceColumn: occupation_title
+
+		annotation SummarizationSetBy = Automatic
+
+	hierarchy 'detailed_occupation Hierarchy'
+		lineageTag: 8be5b2ef-1904-4248-81cc-6669088db094
+
+		level detailed_occupation
+			lineageTag: e7f0c4b0-5c1d-4eb8-a38c-69f25bcafb7a
+			column: detailed_occupation
+
+		level major_group
+			lineageTag: 27eb16f4-661c-45a6-8061-4bc4f61a5cf9
+			column: major_group
+
+		level minor_group
+			lineageTag: d7ddf18f-07bc-4a66-a7e3-26374d0fb877
+			column: minor_group
+
+		level broad_group
+			lineageTag: 9e55c749-fe71-4019-94be-039e52bd251d
+			column: broad_group
+
+	partition soc_codes_df = m
+		mode: import
+		source =
+				let
+				    Source = Python.Execute("import sqlite3#(lf)import pandas as pd#(lf)#(lf)# Connect to SQLite database#(lf)conn = sqlite3.connect(r""C:/Users/geiss/PycharmProjects/Term_Project_Geissinger/data/job_analysis.db"")#(lf)#(lf)# Read tables into separate DataFrames#(lf)employment_trends_df = pd.read_sql_query(""SELECT * FROM employment_trends"", conn)#(lf)occupation_details_df = pd.read_sql_query(""SELECT * FROM occupation_details"", conn)#(lf)skills_df = pd.read_sql_query(""SELECT * FROM skills"", conn)#(lf)soc_codes_df = pd.read_sql_query(""SELECT * FROM soc_codes"", conn)#(lf)"),
+				    soc_codes_df1 = Source{[Name="soc_codes_df"]}[Value],
+				    #"Changed Type" = Table.TransformColumnTypes(soc_codes_df1,{{"major_group", type text}, {"minor_group", type text}, {"broad_group", type text}, {"detailed_occupation", type text}, {"occupation_title", type text}}),
+				    #"Run Python script" = Python.Execute("# 'dataset' holds the input data for this script#(lf)",[dataset=#"Changed Type"]),
+				    dataset = #"Run Python script"{[Name="dataset"]}[Value],
+				    #"Changed Type1" = Table.TransformColumnTypes(dataset,{{"major_group", type text}, {"minor_group", type text}, {"broad_group", type text}, {"detailed_occupation", type text}, {"occupation_title", type text}})
+				in
+				    #"Changed Type1"
+
+	annotation PBI_ResultType = Table
+
+	annotation PBI_NavigationStepName = Navigation
+

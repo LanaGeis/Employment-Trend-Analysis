@@ -1,0 +1,45 @@
+table onet_codes
+	lineageTag: 62200f63-ceb7-4ed7-bda7-9fedb45d7a31
+
+	column onet_code
+		dataType: string
+		lineageTag: a3834f2a-01aa-4756-b8eb-f48d4ad9f05a
+		summarizeBy: none
+		sourceColumn: onet_code
+
+		annotation SummarizationSetBy = Automatic
+
+	column 2023_national_employment_matrix_code
+		dataType: string
+		lineageTag: 4fc29f8b-54d1-4fec-89ec-9fcebe74b46d
+		summarizeBy: none
+		sourceColumn: 2023_national_employment_matrix_code
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'occupation_skills_df.occupation_title'
+		dataType: string
+		lineageTag: 18f79917-9b26-4040-98bd-dee030817238
+		summarizeBy: none
+		sourceColumn: occupation_skills_df.occupation_title
+
+		annotation SummarizationSetBy = Automatic
+
+	partition onet_codes = m
+		mode: import
+		source =
+				let
+				    Source = Python.Execute("import sqlite3#(lf)import pandas as pd#(lf)#(lf)# Connect to SQLite database#(lf)conn = sqlite3.connect(r""C:/Users/geiss/PycharmProjects/Term_Project_Geissinger/data/job_analysis.db"")#(lf)#(lf)# Read tables into separate DataFrames#(lf)employment_trends_df = pd.read_sql_query(""SELECT * FROM employment_trends"", conn)#(lf)occupation_details_df = pd.read_sql_query(""SELECT * FROM occupation_details"", conn)#(lf)skills_df = pd.read_sql_query(""SELECT * FROM skills"", conn)#(lf)soc_codes_df = pd.read_sql_query(""SELECT * FROM soc_codes"", conn)#(lf)"),
+				    employment_trends_df1 = Source{[Name="employment_trends_df"]}[Value],
+				    #"Merged Queries" = Table.FuzzyNestedJoin(employment_trends_df1, {"2023_national_employment_matrix_title"}, occupation_skills_df, {"occupation_title"}, "occupation_skills_df", JoinKind.LeftOuter, [IgnoreCase=true, IgnoreSpace=true]),
+				    #"Expanded occupation_skills_df" = Table.ExpandTableColumn(#"Merged Queries", "occupation_skills_df", {"occupation_title"}, {"occupation_skills_df.occupation_title"}),
+				    #"Removed Other Columns" = Table.SelectColumns(#"Expanded occupation_skills_df",{"occupation_skills_df.occupation_title", "onet_code", "2023_national_employment_matrix_code"}),
+				    #"Filtered Rows" = Table.SelectRows(#"Removed Other Columns", each ([onet_code] <> "")),
+				    #"Removed Duplicates" = Table.Distinct(#"Filtered Rows", {"onet_code"})
+				in
+				    #"Removed Duplicates"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

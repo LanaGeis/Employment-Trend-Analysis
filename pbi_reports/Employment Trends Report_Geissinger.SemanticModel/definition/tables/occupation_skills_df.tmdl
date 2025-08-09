@@ -1,0 +1,73 @@
+table occupation_skills_df
+	lineageTag: f9af8577-5be8-4582-afb9-8692b237f268
+
+	column occupation_title
+		dataType: string
+		lineageTag: 58188e57-abae-482c-a243-1507a9e6bdec
+		summarizeBy: none
+		sourceColumn: occupation_title
+
+		annotation SummarizationSetBy = Automatic
+
+	column employment_trend
+		dataType: string
+		lineageTag: 7753ea0e-03d4-45cd-9759-1243502299f1
+		summarizeBy: none
+		sourceColumn: employment_trend
+
+		annotation SummarizationSetBy = Automatic
+
+	column onet_soc_code
+		dataType: string
+		lineageTag: c614a54a-e33b-4d4c-8752-04ed2c00ba0a
+		summarizeBy: none
+		sourceColumn: onet_soc_code
+
+		annotation SummarizationSetBy = Automatic
+
+	column occupation_description
+		dataType: string
+		lineageTag: b502f4ad-8393-4947-b6a4-242889ccd360
+		summarizeBy: none
+		sourceColumn: occupation_description
+
+		annotation SummarizationSetBy = Automatic
+
+	column extracted_skills
+		dataType: string
+		lineageTag: 8a87362d-2a63-44b1-b5a8-4feb52d5c655
+		summarizeBy: none
+		sourceColumn: extracted_skills
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'soc_codes_df.detailed_occupation'
+		dataType: string
+		lineageTag: 4dabc61e-a19b-4c61-b4dd-ef63e425d5f5
+		summarizeBy: none
+		sourceColumn: soc_codes_df.detailed_occupation
+
+		annotation SummarizationSetBy = Automatic
+
+	partition occupation_skills_df = m
+		mode: import
+		source =
+				let
+				    Source = Python.Execute("import sqlite3#(lf)import pandas as pd#(lf)#(lf)conn = sqlite3.connect(r""C:/Users/geiss/PycharmProjects/Term_Project_Geissinger/data/job_analysis.db"")#(lf)#(lf)occupation_skills_df = pd.read_sql_query(""SELECT * FROM occupation_skills"", conn)#(lf)#(lf)conn.close()#(lf)occupation_skills_df#(lf)#(lf)#(lf)"),
+				    occupation_skills_df1 = Source{[Name="occupation_skills_df"]}[Value],
+				    #"Changed Type" = Table.TransformColumnTypes(occupation_skills_df1,{{"occupation_title", type text}, {"employment_trend", type text}, {"onet_soc_code", type text}, {"soc_code", type text}, {"occupation_description", type text}, {"extracted_skills", type text}}),
+				    #"Merged Queries" = Table.NestedJoin(#"Changed Type", {"soc_code"}, soc_codes_df, {"detailed_occupation"}, "soc_codes_df", JoinKind.LeftOuter),
+				    #"Expanded soc_codes_df" = Table.ExpandTableColumn(#"Merged Queries", "soc_codes_df", {"detailed_occupation"}, {"soc_codes_df.detailed_occupation"}),
+				    #"Reordered Columns" = Table.ReorderColumns(#"Expanded soc_codes_df",{"occupation_title", "employment_trend", "onet_soc_code", "soc_code", "soc_codes_df.detailed_occupation", "occupation_description", "extracted_skills"}),
+				    #"Removed Columns" = Table.RemoveColumns(#"Reordered Columns",{"soc_code"}),
+				    #"Replaced Value" = Table.ReplaceValue(#"Removed Columns","[*","",Replacer.ReplaceText,{"extracted_skills"}),
+				    #"Replaced Value1" = Table.ReplaceValue(#"Replaced Value","[","",Replacer.ReplaceText,{"extracted_skills"}),
+				    #"Replaced Value2" = Table.ReplaceValue(#"Replaced Value1","]","",Replacer.ReplaceText,{"extracted_skills"}),
+				    #"Replaced Value3" = Table.ReplaceValue(#"Replaced Value2","""","",Replacer.ReplaceText,{"extracted_skills"})
+				in
+				    #"Replaced Value3"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

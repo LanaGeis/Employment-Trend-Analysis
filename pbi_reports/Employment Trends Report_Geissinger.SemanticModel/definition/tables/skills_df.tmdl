@@ -1,0 +1,197 @@
+table skills_df
+	isHidden
+	lineageTag: 44eb19f4-f511-40c9-8453-badec816ff2b
+
+	column onetsoc_code
+		dataType: string
+		isHidden
+		lineageTag: 2c051722-3f37-4bf1-a3cf-ea3b3c1e0938
+		summarizeBy: none
+		sourceColumn: onetsoc_code
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column title
+		dataType: string
+		isHidden
+		lineageTag: 20ad5c73-ada0-477d-90f6-9906219f3105
+		summarizeBy: none
+		sourceColumn: title
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column element_id
+		dataType: string
+		isHidden
+		lineageTag: e32b9f23-9d99-42c3-88d5-7c0bc4343262
+		summarizeBy: none
+		sourceColumn: element_id
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column element_name
+		dataType: string
+		isHidden
+		lineageTag: 26bfc93e-d064-48ce-b864-1578113478b8
+		summarizeBy: none
+		sourceColumn: element_name
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column scale_id
+		dataType: string
+		isHidden
+		lineageTag: 0e14c978-c89d-4719-ae2f-07a72f1a1f3d
+		summarizeBy: none
+		sourceColumn: scale_id
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column scale_name
+		dataType: string
+		isHidden
+		lineageTag: 6f86d76b-450c-4acd-9bca-bfbbc319ad1a
+		summarizeBy: none
+		sourceColumn: scale_name
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column data_value
+		dataType: double
+		isHidden
+		lineageTag: c6cf6cbf-8e7b-4493-b442-4b0273ccbf5b
+		summarizeBy: sum
+		sourceColumn: data_value
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column n
+		dataType: int64
+		isHidden
+		formatString: 0
+		lineageTag: ca5006b2-bdc5-4291-b7b8-9b275fc18b78
+		summarizeBy: sum
+		sourceColumn: n
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column standard_error
+		dataType: double
+		isHidden
+		lineageTag: f0a65967-92d0-4c85-8754-faa8e58e4335
+		summarizeBy: sum
+		sourceColumn: standard_error
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column lower_ci_bound
+		dataType: double
+		isHidden
+		lineageTag: 5577eac4-80f6-4548-bdc0-5f36cf06c34c
+		summarizeBy: sum
+		sourceColumn: lower_ci_bound
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column upper_ci_bound
+		dataType: double
+		isHidden
+		lineageTag: 6043c10a-7827-48a4-8188-5edc99d8c0be
+		summarizeBy: sum
+		sourceColumn: upper_ci_bound
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	column recommend_suppress
+		dataType: string
+		isHidden
+		lineageTag: 2fa2abff-5eba-452d-84b7-4f3e72f4da29
+		summarizeBy: none
+		sourceColumn: recommend_suppress
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column not_relevant
+		dataType: string
+		isHidden
+		lineageTag: e841221c-9706-40fd-8f75-164db55a99c5
+		summarizeBy: none
+		sourceColumn: not_relevant
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column date
+		dataType: string
+		isHidden
+		lineageTag: 1327b3af-14b6-4d26-8785-6107cccc4475
+		summarizeBy: none
+		sourceColumn: date
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	column domain_source
+		dataType: string
+		isHidden
+		lineageTag: 67a3adc3-4dac-4dce-8eef-5d7cc69a327f
+		summarizeBy: none
+		sourceColumn: domain_source
+
+		changedProperty = IsHidden
+
+		annotation SummarizationSetBy = Automatic
+
+	partition skills_df = m
+		mode: import
+		source =
+				let
+				    Source = Python.Execute("import sqlite3#(lf)import pandas as pd#(lf)#(lf)# Connect to SQLite database#(lf)conn = sqlite3.connect(r""C:/Users/geiss/PycharmProjects/Term_Project_Geissinger/data/job_analysis.db"")#(lf)#(lf)# Read tables into separate DataFrames#(lf)employment_trends_df = pd.read_sql_query(""SELECT * FROM employment_trends"", conn)#(lf)occupation_details_df = pd.read_sql_query(""SELECT * FROM occupation_details"", conn)#(lf)skills_df = pd.read_sql_query(""SELECT * FROM skills"", conn)#(lf)soc_codes_df = pd.read_sql_query(""SELECT * FROM soc_codes"", conn)#(lf)"),
+				    skills_df1 = Source{[Name="skills_df"]}[Value],
+				    #"Changed Type" = Table.TransformColumnTypes(skills_df1,{{"onetsoc_code", type text}, {"title", type text}, {"element_id", type text}, {"element_name", type text}, {"scale_id", type text}, {"scale_name", type text}, {"data_value", type number}, {"n", Int64.Type}, {"standard_error", type number}, {"lower_ci_bound", type number}, {"upper_ci_bound", type number}, {"recommend_suppress", type text}, {"not_relevant", type text}, {"date", type date}, {"domain_source", type text}}),
+				    #"Run Python script" = Python.Execute("# 'dataset' holds the input data for this script#(lf)",[dataset=#"Changed Type"]),
+				    dataset = #"Run Python script"{[Name="dataset"]}[Value],
+				    #"Changed Type1" = Table.TransformColumnTypes(dataset,{{"onetsoc_code", type text}, {"title", type text}, {"element_id", type text}, {"element_name", type text}, {"scale_id", type text}, {"scale_name", type text}, {"data_value", type number}, {"n", Int64.Type}, {"standard_error", type number}, {"lower_ci_bound", type number}, {"upper_ci_bound", type number}, {"recommend_suppress", type text}, {"not_relevant", type text}, {"date", type text}, {"domain_source", type text}})
+				in
+				    #"Changed Type1"
+
+	changedProperty = IsHidden
+
+	annotation PBI_ResultType = Table
+
+	annotation PBI_NavigationStepName = Navigation
+

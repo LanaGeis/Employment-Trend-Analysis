@@ -1,0 +1,27 @@
+model Model
+	culture: en-US
+	defaultPowerBIDataSourceVersion: powerBI_V3
+	sourceQueryCulture: en-US
+	dataAccessOptions
+		fastCombine
+		legacyRedirects
+		returnErrorValuesAsNull
+
+annotation PBI_QueryOrder = ["employment_trends_df","occupation_details_df","skills_df","soc_codes_df","onet_codes","occupation_skills_df","Occupation Groups"]
+
+annotation __PBI_TimeIntelligenceEnabled = 1
+
+annotation PBIDesktopVersion = 2.145.1602.0 (25.07)+10647c9fa319b5e39936cdb21328038c371d1fe4
+
+annotation PBI_ProTooling = ["DevMode"]
+
+ref table employment_trends_df
+ref table occupation_details_df
+ref table skills_df
+ref table soc_codes_df
+ref table onet_codes
+ref table occupation_skills_df
+ref table 'Occupation Groups'
+
+ref cultureInfo en-US
+

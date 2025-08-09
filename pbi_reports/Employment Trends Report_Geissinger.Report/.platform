@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Employment Trends Report_Geissinger"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "af56daf2-ea11-48ed-8dda-a5ab59bd44c9"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 52
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 519,
+            "y": 0
+          },
+          "nodeIndex": "employment_trends_df",
+          "nodeLineageTag": "81c51dc7-2556-40be-9fc5-d144620e0f8d",
+          "size": {
+            "height": 300,
+            "width": 398
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 50,
+            "y": 1
+          },
+          "nodeIndex": "occupation_details_df",
+          "nodeLineageTag": "3a8652d4-b33b-4227-b2bf-bc5a2f7a063d",
+          "size": {
+            "height": 248,
+            "width": 352
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 62,
+            "y": 295
+          },
+          "nodeIndex": "skills_df",
+          "nodeLineageTag": "44eb19f4-f511-40c9-8453-badec816ff2b",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 962,
+            "y": 100
+          },
+          "nodeIndex": "soc_codes_df",
+          "nodeLineageTag": "e5ea4f95-d894-4a72-b367-4c3580b70d92",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 374,
+            "y": 519.5
+          },
+          "nodeIndex": "onet_codes",
+          "nodeLineageTag": "62200f63-ceb7-4ed7-bda7-9fedb45d7a31",
+          "size": {
+            "height": 197,
+            "width": 235
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 683,
+            "y": 671.5
+          },
+          "nodeIndex": "occupation_skills_df",
+          "nodeLineageTag": "f9af8577-5be8-4582-afb9-8692b237f268",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 924,
+            "y": 405.75
+          },
+          "nodeIndex": "Occupation Groups",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
