@@ -63,7 +63,7 @@ Notebooks will load environment variables with python-dotenv. Keep real secrets 
 - Additional datasets from APIs and public data portals
 
 ## Power BI Reports
-Power BI report files aew located in the *pbi_reports* folded
+Power BI report files are located in the *pbi_reports* folder.
 
 ## Notes
 - Keep secrets private — exclude env_var.env and any credential files from version control.
